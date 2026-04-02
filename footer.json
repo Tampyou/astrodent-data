@@ -1,0 +1,114 @@
+[
+  {
+    "column": "Навигация",
+    "order": 1,
+    "text": "Главная страница",
+    "url": "/",
+    "active": true
+  },
+  {
+    "column": "Навигация",
+    "order": 2,
+    "text": "Услуги",
+    "url": "/services",
+    "active": true
+  },
+  {
+    "column": "Навигация",
+    "order": 3,
+    "text": "Специалисты",
+    "url": "/specialists",
+    "active": true
+  },
+  {
+    "column": "Навигация",
+    "order": 4,
+    "text": "Лечение по ДМС",
+    "url": "/dms",
+    "active": true
+  },
+  {
+    "column": "Сотрудничество",
+    "order": 1,
+    "text": "Карьера",
+    "url": "/career",
+    "active": true
+  },
+  {
+    "column": "Сотрудничество",
+    "order": 2,
+    "text": "Франшиза",
+    "url": "/franchise",
+    "active": true
+  },
+  {
+    "column": "Финансы",
+    "order": 1,
+    "text": "Цены",
+    "url": "/prices",
+    "active": true
+  },
+  {
+    "column": "Финансы",
+    "order": 2,
+    "text": "Акции",
+    "url": "/promotions",
+    "active": true
+  },
+  {
+    "column": "Финансы",
+    "order": 3,
+    "text": "Программа лояльности",
+    "url": "/loyalty",
+    "active": true
+  },
+  {
+    "column": "Финансы",
+    "order": 4,
+    "text": "Налоговый вычет",
+    "url": "/tax-deduction",
+    "active": true
+  },
+  {
+    "column": "О нас",
+    "order": 1,
+    "text": "О клинике",
+    "url": "/about",
+    "active": true
+  },
+  {
+    "column": "О нас",
+    "order": 2,
+    "text": "Контакты",
+    "url": "/contacts",
+    "active": true
+  },
+  {
+    "column": "О нас",
+    "order": 3,
+    "text": "Юр. информация ООО «Астродент-Форте»",
+    "url": "/legal-astrofort",
+    "active": true
+  },
+  {
+    "column": "О нас",
+    "order": 4,
+    "text": "Юр. информация ООО «Аврора-Дент»",
+    "url": "/legal-avrora",
+    "active": true
+  },
+  {
+    "column": "Контакты",
+    "order": 1,
+    "text": "Часы работы: Пн-Вс с 08:00 до 21:00",
+    "url": "",
+    "active": true
+  },
+  {
+    "column": "Контакты",
+    "order": 2,
+    "text": " +7 863 209-70-35",
+    "url": "tel:+78632097035",
+    "active": true
+  }
+]
