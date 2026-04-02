@@ -1,0 +1,56 @@
+[
+  {
+    "order": 1,
+    "city": "Ростов-на-Дону",
+    "name": "Стоматология на Западном",
+    "address": "пр-кт. Стачки, 55",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1775111937/a0bb4194-241d-453a-b3cb-50df424fd34a.png",
+    "map_link": "https://yandex.ru/maps/-/CHHUFSys",
+    "active": true
+  },
+  {
+    "order": 2,
+    "city": "Ростов-на-Дону",
+    "name": "Стоматология в центре",
+    "address": "пр-кт Кировский,126",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1775112083/42c32fc3-b31d-4405-9ef2-d59707fd0ede.png",
+    "map_link": "https://yandex.ru/maps/-/CCUBQRHXkD",
+    "active": true
+  },
+  {
+    "order": 3,
+    "city": "Ростов-на-Дону",
+    "name": "Стоматология на Северном",
+    "address": "пр-кт Космонавтов, 14Б",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1775111869/8fd8df2e-8ff3-4b68-af30-5159b5ecad9f.png",
+    "map_link": "https://yandex.ru/maps/-/CCUaiOgBTC",
+    "active": true
+  },
+  {
+    "order": 4,
+    "city": "Ростов-на-Дону",
+    "name": "Стоматология в Александровке",
+    "address": "пр-кт 40-летия Победы, 212",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1775112535/181c4196-96f3-40bf-8b04-15cec033f72d.png",
+    "map_link": "https://yandex.ru/maps/-/CDqL5HI~",
+    "active": true
+  },
+  {
+    "order": 5,
+    "city": "Таганрог",
+    "name": "Стоматология в Таганроге",
+    "address": "ул. С. Лазо, 9",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1775112964/b58c93ca-117f-4330-a22e-27b56d4ee95e.png",
+    "map_link": "https://yandex.ru/maps/org/astrodent/228685696743/?ll=38.882248%2C47.222305&source=wizgeo&utm_medium=maps-desktop&utm_source=serp&z=16.11",
+    "active": true
+  },
+  {
+    "order": 6,
+    "city": "Таганрог",
+    "name": "Стоматология в Таганроге",
+    "address": "ул. Чехова 262",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1775112830/XXL_height_jny6yq.jpg",
+    "map_link": "https://yandex.ru/maps/-/CCUaiOgWXC",
+    "active": true
+  }
+]
