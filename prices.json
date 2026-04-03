@@ -1,0 +1,532 @@
+[
+  {
+    "category": "Диагностика заболеваний и лечение зубов",
+    "service": "Первичный прием (осмотр и консультация) врача стоматолога-терапевта",
+    "description": "",
+    "price": 0,
+    "old_price": "",
+    "order": 1,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Диагностика заболеваний и лечение зубов",
+    "service": "Повторный прием (осмотр и консультация) врача стоматолога-терапевта",
+    "description": "",
+    "price": 500,
+    "old_price": "",
+    "order": 2,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Диагностика заболеваний и лечение зубов",
+    "service": "Компьютерная томография зубов (2 челюсти)",
+    "description": "",
+    "price": 3500,
+    "old_price": "",
+    "order": 3,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Диагностика заболеваний и лечение зубов",
+    "service": "Лечение кариеса в пределах эмали зуба",
+    "description": "",
+    "price": 5500,
+    "old_price": 6100,
+    "order": 4,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Диагностика заболеваний и лечение зубов",
+    "service": "Ортопантомография (ОПТГ) в рамках консультации",
+    "description": "",
+    "price": 0,
+    "old_price": "",
+    "order": 5,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Диагностика заболеваний и лечение зубов",
+    "service": "Лечение кариеса в пределах эмали и дентина зуба",
+    "description": "",
+    "price": 7900,
+    "old_price": 8700,
+    "order": 6,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Диагностика заболеваний и лечение зубов",
+    "service": "Лечение кариеса под микроскопом в пределах эмали зуба",
+    "description": "",
+    "price": 7800,
+    "old_price": 8600,
+    "order": 7,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Диагностика заболеваний и лечение зубов",
+    "service": "Лечение кариеса под микроскопом в пределах эмали и дентина зуба",
+    "description": "",
+    "price": 9500,
+    "old_price": 10500,
+    "order": 8,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Гигиена, отбеливание",
+    "service": "Первичная профессиональная гигиена полости рта и зубов",
+    "description": "",
+    "price": 5500,
+    "old_price": 6100,
+    "order": 1,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Гигиена, отбеливание",
+    "service": "Профессиональная гигиена полости рта и зубов плановая",
+    "description": "",
+    "price": 4900,
+    "old_price": 5400,
+    "order": 2,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Гигиена, отбеливание",
+    "service": "Профессиональная гигиена полости рта и зубов при ортодонтическом лечении",
+    "description": "",
+    "price": 4500,
+    "old_price": "",
+    "order": 3,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Гигиена, отбеливание",
+    "service": "Профессиональное отбеливание зубов системой Opalescence (домашнее отбеливание)",
+    "description": "",
+    "price": 9400,
+    "old_price": "",
+    "order": 4,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Гигиена, отбеливание",
+    "service": "Отбеливание технологией Philips ZOOM4 + гель Amazing White",
+    "description": "",
+    "price": 20900,
+    "old_price": "",
+    "order": 5,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Гигиена, отбеливание",
+    "service": "Отбеливание технологией Philips ZOOM4 + гель Beyond",
+    "description": "",
+    "price": 26500,
+    "old_price": "",
+    "order": 6,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Гигиена, отбеливание",
+    "service": "Профессиональное отбеливание зубов системой последнего поколения ZOOM4",
+    "description": "",
+    "price": 41900,
+    "old_price": 46500,
+    "order": 7,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Брекеты, элайнеры и пластинки",
+    "service": "Первичный прием (осмотр и консультация) врача-ортодонта",
+    "description": "",
+    "price": 0,
+    "old_price": "",
+    "order": 1,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Брекеты, элайнеры и пластинки",
+    "service": "Первичная ортодонтическая диагностика",
+    "description": "",
+    "price": 8300,
+    "old_price": "",
+    "order": 2,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Брекеты, элайнеры и пластинки",
+    "service": "Установка лигатурной металлической брекет-системы Mini Diamond на 1 челюсть",
+    "description": "",
+    "price": 56500,
+    "old_price": "",
+    "order": 3,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Брекеты, элайнеры и пластинки",
+    "service": "Установка металлической брекет-системы Damon Q на 1 челюсть",
+    "description": "",
+    "price": 88700,
+    "old_price": 98600,
+    "order": 4,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Брекеты, элайнеры и пластинки",
+    "service": "Установка керамической брекет-системы Damon Clear на 1 челюсть",
+    "description": "",
+    "price": 108000,
+    "old_price": 120000,
+    "order": 5,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Брекеты, элайнеры и пластинки",
+    "service": "Элайнеры SPARK 20 на 1 челюсть",
+    "description": "",
+    "price": 144000,
+    "old_price": 160000,
+    "order": 6,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Брекеты, элайнеры и пластинки",
+    "service": "Элайнеры SPARK 20 на 2 челюсти",
+    "description": "",
+    "price": 256500,
+    "old_price": 285000,
+    "order": 7,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Брекеты, элайнеры и пластинки",
+    "service": "Элайнеры SPARK 10 на 1 челюсть",
+    "description": "",
+    "price": 133700,
+    "old_price": 148500,
+    "order": 8,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Брекеты, элайнеры и пластинки",
+    "service": "Элайнеры SPARK 10 на 2 челюсти",
+    "description": "",
+    "price": 184500,
+    "old_price": 205000,
+    "order": 9,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Брекеты, элайнеры и пластинки",
+    "service": "Элайнеры SPARK ADVANCED на 1 челюсть",
+    "description": "",
+    "price": 248400,
+    "old_price": 276000,
+    "order": 10,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Брекеты, элайнеры и пластинки",
+    "service": "Элайнеры SPARK ADVANCED на 2 челюсти",
+    "description": "",
+    "price": 339000,
+    "old_price": 377000,
+    "order": 11,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Протезирование",
+    "service": "Первичный прием (осмотр и консультация) врача стоматолога-ортопеда",
+    "description": "",
+    "price": 0,
+    "old_price": "",
+    "order": 1,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Протезирование",
+    "service": "Восстановление зуба виниром цельнокерамическим e.max",
+    "description": "",
+    "price": 32500,
+    "old_price": "",
+    "order": 2,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Протезирование",
+    "service": "Восстановление зуба коронкой/вкладкой из диоксида циркония",
+    "description": "",
+    "price": 26100,
+    "old_price": 29000,
+    "order": 3,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Протезирование",
+    "service": "Восстановление зуба коронкой/вкладкой (e.max Ivoclar полная анатомия)",
+    "description": "",
+    "price": 32500,
+    "old_price": 36100,
+    "order": 4,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Протезирование",
+    "service": "Циркониевая коронка ZrO2 с винтовой фиксацией",
+    "description": "",
+    "price": 45900,
+    "old_price": "",
+    "order": 5,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Протезирование",
+    "service": "Съемный пластиночный протез на 1 челюсть",
+    "description": "",
+    "price": 52000,
+    "old_price": "",
+    "order": 6,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Хирургия, имплантация",
+    "service": "Первичный прием (осмотр и консультация) хирурга-имплантолога",
+    "description": "",
+    "price": 0,
+    "old_price": "",
+    "order": 1,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Хирургия, имплантация",
+    "service": "Простое удаление зуба",
+    "description": "",
+    "price": "от 3500",
+    "old_price": "",
+    "order": 2,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Хирургия, имплантация",
+    "service": "Удаление зуба мудрости",
+    "description": "",
+    "price": "от 10000",
+    "old_price": "",
+    "order": 3,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Хирургия, имплантация",
+    "service": "Удаление ретинированного дистопированного зуба повышенной сложности",
+    "description": "",
+    "price": 18000,
+    "old_price": "",
+    "order": 4,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Хирургия, имплантация",
+    "service": "Операция по установке импланта Dentium Implantium",
+    "description": "",
+    "price": 29800,
+    "old_price": 32800,
+    "order": 5,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Хирургия, имплантация",
+    "service": "Операция по установке импланта DENTIUM Superline",
+    "description": "",
+    "price": 39000,
+    "old_price": 43500,
+    "order": 6,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Хирургия, имплантация",
+    "service": "Операция по установке импланта AnyRidge",
+    "description": "",
+    "price": 55000,
+    "old_price": "",
+    "order": 7,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Хирургия, имплантация",
+    "service": "Операция по установке импланта Straumann",
+    "description": "",
+    "price": 69300,
+    "old_price": "",
+    "order": 8,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Всё на 4/6",
+    "service": "Зубы за 1 день DENTIUM Superline по протоколу \"Все-на-4\"",
+    "description": "",
+    "price": "от 644 700",
+    "old_price": "",
+    "order": 1,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Всё на 4/6",
+    "service": "Зубы за 1 день DENTIUM Superline по протоколу \"Все-на-6\"",
+    "description": "",
+    "price": "от 789 600",
+    "old_price": "",
+    "order": 2,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Лечение во сне",
+    "service": "Консультация и осмотр врача-анестезиолога-реаниматолога",
+    "description": "",
+    "price": 1100,
+    "old_price": "",
+    "order": 1,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Лечение во сне",
+    "service": "Сопровождение врача-анастезиолога, включая введение в наркоз и выход из наркоза",
+    "description": "",
+    "price": 9500,
+    "old_price": "",
+    "order": 2,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Лечение во сне",
+    "service": "Лечение зубов под наркозом с препаратом \"Севоран\", 15 минут",
+    "description": "",
+    "price": 4700,
+    "old_price": "",
+    "order": 3,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Детская стоматология",
+    "service": "Первичный прием (осмотр и консультация) детского врача стоматолога",
+    "description": "",
+    "price": 0,
+    "old_price": "",
+    "order": 1,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Детская стоматология",
+    "service": "Повторный прием (осмотр и консультация) детского врача стоматолога",
+    "description": "",
+    "price": 1000,
+    "old_price": "",
+    "order": 2,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Детская стоматология",
+    "service": "Первичная консультация детского стоматолога с психологической подготовкой",
+    "description": "",
+    "price": 1000,
+    "old_price": "",
+    "order": 3,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Детская стоматология",
+    "service": "Удаление молочного зуба",
+    "description": "",
+    "price": 2800,
+    "old_price": "",
+    "order": 4,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Детская стоматология",
+    "service": "Лечение кариеса молочного зуба",
+    "description": "",
+    "price": 4400,
+    "old_price": "",
+    "order": 5,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Детская стоматология",
+    "service": "Лечение кариеса молочного зуба с покрытием металлической коронкой",
+    "description": "",
+    "price": 8700,
+    "old_price": "",
+    "order": 6,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Детская стоматология",
+    "service": "Профессиональная гигиена полости рта ребенка до 12 лет первичная",
+    "description": "",
+    "price": 5000,
+    "old_price": "",
+    "order": 7,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Детская стоматология",
+    "service": "Эндодонтическое лечение молочного зуба при пульпите (лечение в 2 этапа)",
+    "description": "",
+    "price": 8200,
+    "old_price": "",
+    "order": 8,
+    "active": true,
+    "signup_link": "#widget"
+  }
+]
