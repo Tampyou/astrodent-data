@@ -1,93 +1,538 @@
 [
   {
     "order": 1,
-    "title": "Лечение зубов",
-    "desc": "Cохраним ваши зубы здоровыми и крепкими",
-    "active": true,
-    "link": "/services/lechenie-zubov"
+    "category_slug": "Лечение зубов",
+    "service_title": "Лечение кариеса",
+    "service_desc": "Быстрое и безболезненное удаление поражённых тканей зуба",
+    "service_link": "",
+    "active": true
   },
   {
     "order": 2,
-    "title": "Ортодонтия",
-    "desc": "Ровные зубы и красивая улыбка без комплексов",
-    "active": true,
-    "link": "/services/ortodontiya"
+    "category_slug": "Лечение зубов",
+    "service_title": "Лечение пульпита",
+    "service_desc": "Спасём зуб от воспаления нерва, сохраним корни",
+    "service_link": "",
+    "active": true
   },
   {
     "order": 3,
-    "title": "Всё на 4/6",
-    "desc": "Новая улыбка за день, восстановление полного зубного ряда",
-    "active": true,
-    "link": "/services/vse-na-4-6"
+    "category_slug": "Лечение зубов",
+    "service_title": "Лечение под микроскопом",
+    "service_desc": "Ювелирная точность, максимальное сохранение здоровых тканей",
+    "service_link": "",
+    "active": true
   },
   {
     "order": 4,
-    "title": "Имплантация",
-    "desc": "Надежное восстановление утраченных зубов под ключ",
-    "active": true,
-    "link": "/services/implantatsiya"
+    "category_slug": "Лечение зубов",
+    "service_title": "Художественная реставрация",
+    "service_desc": "Восстановим форму и цвет зуба, не отличишь от своего",
+    "service_link": "",
+    "active": true
   },
   {
     "order": 5,
-    "title": "Детская стоматология",
-    "desc": "Здоровые зубы без слёз - бережное лечение и профилактика для детей в дружелюбной обстановке",
-    "active": true,
-    "link": "/services/detskaya"
+    "category_slug": "Лечение зубов",
+    "service_title": "Лечение зубов «во сне»",
+    "service_desc": "Полное расслабление и отсутствие стресса для пациентов",
+    "service_link": "",
+    "active": true
   },
   {
     "order": 6,
-    "title": "Профилактика",
-    "desc": "Профессиональная чистка и безопасное отбеливание",
-    "active": true,
-    "link": "/services/profilaktika"
+    "category_slug": "Лечение зубов",
+    "service_title": "КТ зубов",
+    "service_desc": "Точная 3D-диагностика за несколько минут",
+    "service_link": "",
+    "active": true
   },
   {
     "order": 7,
-    "title": "Хирургия",
-    "desc": "Бережное и безболезненное удаление проблемных зубов",
-    "active": true,
-    "link": "/services/hirurgiya"
+    "category_slug": "Лечение зубов",
+    "service_title": "Диагностика",
+    "service_desc": "Полное обследование полости рта и составление плана лечения",
+    "service_link": "",
+    "active": true
   },
   {
     "order": 8,
-    "title": "Лечение во сне",
-    "desc": "Без страха и боли: лечим зубы пока вы спокойно спите",
-    "active": true,
-    "link": "/services/lechenie-vo-sne"
+    "category_slug": "Лечение зубов",
+    "service_title": "Панорамный снимок зубов (ОПТГ)",
+    "service_desc": "Обзорный снимок всех зубов и челюстей",
+    "service_link": "",
+    "active": true
   },
   {
-    "order": 9,
-    "title": "Протезирование",
-    "desc": "Красивые и прочные коронки и мосты - естественный вид и удобство без стеснения",
-    "active": true,
-    "link": "/services/protezirovanie"
+    "order": 1,
+    "category_slug": "Ортодонтия",
+    "service_title": "Брекеты Damon Q",
+    "service_desc": "Надёжная металлическая система для коррекции прикуса",
+    "service_link": "",
+    "active": true
   },
   {
-    "order": 10,
-    "title": "Зубы за один день",
-    "desc": "Экстренное восстановление зубов при полном отсутствии или сложных случаях. Без долгих месяцев ожидания и боли",
-    "active": true,
-    "link": "/services/zuby-za-1-den"
+    "order": 2,
+    "category_slug": "Ортодонтия",
+    "service_title": "Брекеты Damon Clear",
+    "service_desc": "Эстетичные керамические брекеты, почти незаметные",
+    "service_link": "",
+    "active": true
   },
   {
-    "order": 11,
-    "title": "Виниры",
-    "desc": "Идеальная улыбка без обточки",
-    "active": true,
-    "link": "/services/viniry"
+    "order": 3,
+    "category_slug": "Ортодонтия",
+    "service_title": "Элайнеры",
+    "service_desc": "Прозрачные капы для выравнивания зубов без дискомфорта",
+    "service_link": "",
+    "active": true
   },
   {
-    "order": 12,
-    "title": "Исправление прикуса",
-    "desc": "Красивая улыбка и здоровье зубов",
-    "active": true,
-    "link": "/services/ispravlenie-prikusa"
+    "order": 4,
+    "category_slug": "Ортодонтия",
+    "service_title": "Пластинки",
+    "service_desc": "Съёмные ортодонтические аппараты для детей",
+    "service_link": "",
+    "active": true
   },
   {
-    "order": 13,
-    "title": "Пародонтология",
-    "desc": "Здоровые дёсны – крепкие зубы",
-    "active": true,
-    "link": "/services/parodontologiya"
+    "order": 5,
+    "category_slug": "Ортодонтия",
+    "service_title": "Ортодонтические аппараты",
+    "service_desc": "Несъёмные устройства для исправления прикуса у подростков",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 1,
+    "category_slug": " Всё на 4/6",
+    "service_title": "Коронки на импланты",
+    "service_desc": "Фиксация готовых коронок на установленные импланты",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 2,
+    "category_slug": " Всё на 4/6",
+    "service_title": "Имплантация «Все-на-4» при полной утрате зубов",
+    "service_desc": "Восстановление всего зубного ряда на 4 имплантах",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 3,
+    "category_slug": " Всё на 4/6",
+    "service_title": "Имплантация «Все-на-6» при полной утрате зубов",
+    "service_desc": "Надёжное протезирование на 6 имплантах",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 4,
+    "category_slug": " Всё на 4/6",
+    "service_title": "Имплантация во сне",
+    "service_desc": "Установка имплантов без боли и стресса под седацией",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 1,
+    "category_slug": "Имплантация",
+    "service_title": "Импланты Dentium Implantium",
+    "service_desc": "Корейские импланты по доступной цене",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 2,
+    "category_slug": "Имплантация",
+    "service_title": "Импланты Dentium Superline",
+    "service_desc": "Повышенная стабильность и быстрая приживаемость",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 3,
+    "category_slug": "Имплантация",
+    "service_title": "Импланты AnyRidge",
+    "service_desc": "Универсальная система с высокой первичной стабильностью",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 4,
+    "category_slug": "Имплантация",
+    "service_title": "Импланты Straumann",
+    "service_desc": "Швейцарское качество, премиум-сегмент",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 5,
+    "category_slug": "Имплантация",
+    "service_title": "Импланты Straumann SLActive",
+    "service_desc": "Ускоренная остеоинтеграция за 3–4 недели",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 1,
+    "category_slug": "Детская стоматология",
+    "service_title": "Лечение зубов детям",
+    "service_desc": "Бережное лечение кариеса и пульпита у детей",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 2,
+    "category_slug": "Детская стоматология",
+    "service_title": "Лечение кариеса детям",
+    "service_desc": "Безболезненное пломбирование молочных зубов",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 3,
+    "category_slug": "Детская стоматология",
+    "service_title": "Лечение пульпита у детей",
+    "service_desc": "Сохранение зуба даже при глубоком воспалении",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 4,
+    "category_slug": "Детская стоматология",
+    "service_title": "Гигиеническая чистка зубов детям",
+    "service_desc": "Удаление налёта и обучение правильной гигиене",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 5,
+    "category_slug": "Детская стоматология",
+    "service_title": "Лечение зубов детям во сне",
+    "service_desc": "Лечение всех зубов за один сеанс под седацией",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 6,
+    "category_slug": "Детская стоматология",
+    "service_title": "Удаление зубов у детей",
+    "service_desc": "Атравматичное удаление молочных зубов",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 7,
+    "category_slug": "Детская стоматология",
+    "service_title": "Лечение под седацией у детей",
+    "service_desc": "Полный комфорт и отсутствие страха",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 8,
+    "category_slug": "Детская стоматология",
+    "service_title": "Коронки на молочные зубы",
+    "service_desc": "Восстановление жевательной функции до смены зубов",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 1,
+    "category_slug": "Профилактика",
+    "service_title": "Гигиеническая чистка зубов",
+    "service_desc": "AirFlow, ультразвук – удаляем налёт и камень",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 2,
+    "category_slug": "Профилактика",
+    "service_title": "Отбеливание ZOOM4 с гелем Amazing White",
+    "service_desc": "Быстрое отбеливание на 8–10 тонов",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 3,
+    "category_slug": "Профилактика",
+    "service_title": "Отбеливание ZOOM4",
+    "service_desc": "Классическая система отбеливания",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 4,
+    "category_slug": "Профилактика",
+    "service_title": "Отбеливание ZOOM4 c гелем Beyond",
+    "service_desc": "Деликатное отбеливание для чувствительных зубов",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 1,
+    "category_slug": "Хирургия",
+    "service_title": "Удаление зубов",
+    "service_desc": "Атравматичное удаление под местной анестезией",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 2,
+    "category_slug": "Хирургия",
+    "service_title": "Челюстно-лицевая хирургия",
+    "service_desc": "Операции на челюстях и мягких тканях лица",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 3,
+    "category_slug": "Хирургия",
+    "service_title": "Удаление зубов мудрости",
+    "service_desc": "Бережное удаление даже ретинированных «восьмёрок»",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 4,
+    "category_slug": "Хирургия",
+    "service_title": "Удаление зубов «Во сне»",
+    "service_desc": "Полное отсутствие боли и страха",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 1,
+    "category_slug": "Лечение во сне",
+    "service_title": "Лечение зубов детям во сне",
+    "service_desc": "Лечение всех зубов за один сеанс",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 2,
+    "category_slug": "Лечение во сне",
+    "service_title": "Лечение под седацией у детей",
+    "service_desc": "Полный комфорт и отсутствие страха",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 3,
+    "category_slug": "Лечение во сне",
+    "service_title": "Протезирование «зубов во сне»",
+    "service_desc": "Установка протезов без стресса",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 4,
+    "category_slug": "Лечение во сне",
+    "service_title": "Имплантация зубов во сне",
+    "service_desc": "Установка имплантов без боли и стресса под седацией",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 5,
+    "category_slug": "Лечение во сне",
+    "service_title": "Установка виниров во сне",
+    "service_desc": "Эстетическая реставрация без боли",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 1,
+    "category_slug": "Протезирование",
+    "service_title": "Коронки из циркона",
+    "service_desc": "Прочные и эстетичные коронки без металла",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 2,
+    "category_slug": "Протезирование",
+    "service_title": "Коронка из керамики",
+    "service_desc": "Максимальная эстетика, полная имитация зуба",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 3,
+    "category_slug": "Протезирование",
+    "service_title": "Коронки из металлокерамики",
+    "service_desc": "Надёжные коронки по доступной цене",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 4,
+    "category_slug": "Протезирование",
+    "service_title": "Бюгельные протезы",
+    "service_desc": "Частичные съёмные протезы с металлической дугой",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 5,
+    "category_slug": "Протезирование",
+    "service_title": "Телескопические протезы",
+    "service_desc": "Удобные и надёжные съёмные протезы",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 6,
+    "category_slug": "Протезирование",
+    "service_title": "Съёмные протезы",
+    "service_desc": "Акриловые и нейлоновые протезы",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 7,
+    "category_slug": "Протезирование",
+    "service_title": "Протезирование зубов «во сне»",
+    "service_desc": "Установка протезов без стресса",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 1,
+    "category_slug": "Зубы за один день",
+    "service_title": "Имплантация «Все-на-4»",
+    "service_desc": "Восстановление всего зубного ряда на 4 имплантах",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 2,
+    "category_slug": "Зубы за один день",
+    "service_title": "Имплантация «Все-на-6»",
+    "service_desc": "Надёжное протезирование на 6 имплантах",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 3,
+    "category_slug": "Зубы за один день",
+    "service_title": "Лечение кариеса сразу на 5+ зубах",
+    "service_desc": "Быстрое лечение множественного кариеса",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 4,
+    "category_slug": "Зубы за один день",
+    "service_title": "Снимки и удаление зубов мудрости в 1 день",
+    "service_desc": "Экспресс-диагностика и удаление",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 5,
+    "category_slug": "Зубы за один день",
+    "service_title": "Лечение сразу всех зубов у детей «во сне»",
+    "service_desc": "Полная санация за один сеанс",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 6,
+    "category_slug": "Зубы за один день",
+    "service_title": "Лечение сразу всех зубов у детей под седацией",
+    "service_desc": "Полный комфорт и отсутствие страха",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 1,
+    "category_slug": "Виниры",
+    "service_title": "Установка виниров E-max",
+    "service_desc": "Керамические виниры от ведущего производителя",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 2,
+    "category_slug": "Виниры",
+    "service_title": "Установка виниров во сне",
+    "service_desc": "Эстетическая реставрация без боли",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 3,
+    "category_slug": "Виниры",
+    "service_title": "Препарирование под виниры",
+    "service_desc": "Подготовка зубов перед установкой",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 1,
+    "category_slug": "Исправление прикуса",
+    "service_title": "Брекеты",
+    "service_desc": "Металлические и керамические брекеты",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 2,
+    "category_slug": "Исправление прикуса",
+    "service_title": "Элайнеры",
+    "service_desc": "Прозрачные капы",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 3,
+    "category_slug": "Исправление прикуса",
+    "service_title": "Пластинки",
+    "service_desc": "Съёмные аппараты",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 4,
+    "category_slug": "Исправление прикуса",
+    "service_title": "Ортодонтические аппараты",
+    "service_desc": "Несъёмные устройства",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 1,
+    "category_slug": "Пародонтология",
+    "service_title": "Гингивит",
+    "service_desc": "Лечение воспаления дёсен на начальной стадии",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 2,
+    "category_slug": "Пародонтология",
+    "service_title": "Пародонтит",
+    "service_desc": "Комплексное лечение глубоких тканей",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 3,
+    "category_slug": "Пародонтология",
+    "service_title": "Пародонтоз",
+    "service_desc": "Системная терапия дистрофических изменений",
+    "service_link": "",
+    "active": true
+  },
+  {
+    "order": 4,
+    "category_slug": "Пародонтология",
+    "service_title": "Лечение воспаления дёсен",
+    "service_desc": "Кюретаж, шинирование, противовоспалительная терапия",
+    "service_link": "",
+    "active": true
   }
 ]
