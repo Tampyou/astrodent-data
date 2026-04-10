@@ -1,0 +1,93 @@
+[
+  {
+    "order": 1,
+    "title": "Лечение зубов",
+    "desc": "Cохраним ваши зубы здоровыми и крепкими",
+    "active": true,
+    "link": "/services/lechenie-zubov"
+  },
+  {
+    "order": 2,
+    "title": "Ортодонтия",
+    "desc": "Ровные зубы и красивая улыбка без комплексов",
+    "active": true,
+    "link": "/services/ortodontiya"
+  },
+  {
+    "order": 3,
+    "title": "Всё на 4/6",
+    "desc": "Новая улыбка за день, восстановление полного зубного ряда",
+    "active": true,
+    "link": "/services/vse-na-4-6"
+  },
+  {
+    "order": 4,
+    "title": "Имплантация",
+    "desc": "Надежное восстановление утраченных зубов под ключ",
+    "active": true,
+    "link": "/services/implantatsiya"
+  },
+  {
+    "order": 5,
+    "title": "Детская стоматология",
+    "desc": "Здоровые зубы без слёз - бережное лечение и профилактика для детей в дружелюбной обстановке",
+    "active": true,
+    "link": "/services/detskaya"
+  },
+  {
+    "order": 6,
+    "title": "Профилактика",
+    "desc": "Профессиональная чистка и безопасное отбеливание",
+    "active": true,
+    "link": "/services/profilaktika"
+  },
+  {
+    "order": 7,
+    "title": "Хирургия",
+    "desc": "Бережное и безболезненное удаление проблемных зубов",
+    "active": true,
+    "link": "/services/hirurgiya"
+  },
+  {
+    "order": 8,
+    "title": "Лечение во сне",
+    "desc": "Без страха и боли: лечим зубы пока вы спокойно спите",
+    "active": true,
+    "link": "/services/lechenie-vo-sne"
+  },
+  {
+    "order": 9,
+    "title": "Протезирование",
+    "desc": "Красивые и прочные коронки и мосты - естественный вид и удобство без стеснения",
+    "active": true,
+    "link": "/services/protezirovanie"
+  },
+  {
+    "order": 10,
+    "title": "Зубы за один день",
+    "desc": "Экстренное восстановление зубов при полном отсутствии или сложных случаях. Без долгих месяцев ожидания и боли",
+    "active": true,
+    "link": "/services/zuby-za-1-den"
+  },
+  {
+    "order": 11,
+    "title": "Виниры",
+    "desc": "Идеальная улыбка без обточки",
+    "active": true,
+    "link": "/services/viniry"
+  },
+  {
+    "order": 12,
+    "title": "Исправление прикуса",
+    "desc": "Красивая улыбка и здоровье зубов",
+    "active": true,
+    "link": "/services/ispravlenie-prikusa"
+  },
+  {
+    "order": 13,
+    "title": "Пародонтология",
+    "desc": "Здоровые дёсны – крепкие зубы",
+    "active": true,
+    "link": "/services/parodontologiya"
+  }
+]
