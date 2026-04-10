@@ -449,7 +449,7 @@
   },
   {
     "order": 1,
-    "category_slug": "Виниры",
+    "category_slug": "viniry",
     "service_title": "Установка виниров E-max",
     "service_desc": "Керамические виниры от ведущего производителя",
     "service_link": "/services/viniry/viniry-e-max",
@@ -457,7 +457,7 @@
   },
   {
     "order": 2,
-    "category_slug": "Виниры",
+    "category_slug": "viniry",
     "service_title": "Установка виниров во сне",
     "service_desc": "Эстетическая реставрация без боли",
     "service_link": "/services/lechenie-vo-sne/viniry-vo-sne",
@@ -465,7 +465,7 @@
   },
   {
     "order": 3,
-    "category_slug": "Виниры",
+    "category_slug": "viniry",
     "service_title": "Препарирование под виниры",
     "service_desc": "Подготовка зубов перед установкой",
     "service_link": "/services/viniry/preparirovanie-pod-viniry",
@@ -473,7 +473,7 @@
   },
   {
     "order": 1,
-    "category_slug": "Исправление прикуса",
+    "category_slug": "ispravlenie-prikusa",
     "service_title": "Брекеты",
     "service_desc": "Металлические и керамические брекеты",
     "service_link": "/services/ispravlenie-prikusa/brekety",
@@ -481,7 +481,7 @@
   },
   {
     "order": 2,
-    "category_slug": "Исправление прикуса",
+    "category_slug": "ispravlenie-prikusa",
     "service_title": "Элайнеры",
     "service_desc": "Прозрачные капы",
     "service_link": "/services/ispravlenie-prikusa/elaynery",
@@ -489,7 +489,7 @@
   },
   {
     "order": 3,
-    "category_slug": "Исправление прикуса",
+    "category_slug": "ispravlenie-prikusa",
     "service_title": "Пластинки",
     "service_desc": "Съёмные аппараты",
     "service_link": "/services/ispravlenie-prikusa/plastinki",
@@ -497,7 +497,7 @@
   },
   {
     "order": 4,
-    "category_slug": "Исправление прикуса",
+    "category_slug": "ispravlenie-prikusa",
     "service_title": "Ортодонтические аппараты",
     "service_desc": "Несъёмные устройства",
     "service_link": "/services/ispravlenie-prikusa/ortodonticheskie-apparaty",
@@ -505,7 +505,7 @@
   },
   {
     "order": 1,
-    "category_slug": "Пародонтология",
+    "category_slug": "parodontologiya",
     "service_title": "Гингивит",
     "service_desc": "Лечение воспаления дёсен на начальной стадии",
     "service_link": "/services/parodontologiya/gingivit",
@@ -513,7 +513,7 @@
   },
   {
     "order": 2,
-    "category_slug": "Пародонтология",
+    "category_slug": "parodontologiya",
     "service_title": "Пародонтит",
     "service_desc": "Комплексное лечение глубоких тканей",
     "service_link": "/services/parodontologiya/parodontit",
@@ -521,7 +521,7 @@
   },
   {
     "order": 3,
-    "category_slug": "Пародонтология",
+    "category_slug": "parodontologiya",
     "service_title": "Пародонтоз",
     "service_desc": "Системная терапия дистрофических изменений",
     "service_link": "/services/parodontologiya/parodontoza",
@@ -529,7 +529,7 @@
   },
   {
     "order": 4,
-    "category_slug": "Пародонтология",
+    "category_slug": "parodontologiya",
     "service_title": "Лечение воспаления дёсен",
     "service_desc": "Кюретаж, шинирование, противовоспалительная терапия",
     "service_link": "/services/parodontologiya/lechenie-desen",
