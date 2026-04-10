@@ -4,7 +4,7 @@
     "category_slug": "Лечение зубов",
     "service_title": "Лечение кариеса",
     "service_desc": "Быстрое и безболезненное удаление поражённых тканей зуба",
-    "service_link": "",
+    "service_link": "/services/lechenie-zubov/lechenie-kariesa",
     "active": true
   },
   {
@@ -12,7 +12,7 @@
     "category_slug": "Лечение зубов",
     "service_title": "Лечение пульпита",
     "service_desc": "Спасём зуб от воспаления нерва, сохраним корни",
-    "service_link": "",
+    "service_link": "/services/lechenie-zubov/lechenie-pulpita",
     "active": true
   },
   {
@@ -20,7 +20,7 @@
     "category_slug": "Лечение зубов",
     "service_title": "Лечение под микроскопом",
     "service_desc": "Ювелирная точность, максимальное сохранение здоровых тканей",
-    "service_link": "",
+    "service_link": "/services/lechenie-zubov/lechenie-pod-mikroskopom",
     "active": true
   },
   {
@@ -28,7 +28,7 @@
     "category_slug": "Лечение зубов",
     "service_title": "Художественная реставрация",
     "service_desc": "Восстановим форму и цвет зуба, не отличишь от своего",
-    "service_link": "",
+    "service_link": "/services/lechenie-zubov/hudozhestvennaya-restavratsiya",
     "active": true
   },
   {
@@ -36,7 +36,7 @@
     "category_slug": "Лечение зубов",
     "service_title": "Лечение зубов «во сне»",
     "service_desc": "Полное расслабление и отсутствие стресса для пациентов",
-    "service_link": "",
+    "service_link": "/services/lechenie-zubov/lechenie-vo-sne",
     "active": true
   },
   {
@@ -44,7 +44,7 @@
     "category_slug": "Лечение зубов",
     "service_title": "КТ зубов",
     "service_desc": "Точная 3D-диагностика за несколько минут",
-    "service_link": "",
+    "service_link": "/services/lechenie-zubov/kt-zubov",
     "active": true
   },
   {
@@ -52,7 +52,7 @@
     "category_slug": "Лечение зубов",
     "service_title": "Диагностика",
     "service_desc": "Полное обследование полости рта и составление плана лечения",
-    "service_link": "",
+    "service_link": "/services/lechenie-zubov/diagnostika",
     "active": true
   },
   {
@@ -60,7 +60,7 @@
     "category_slug": "Лечение зубов",
     "service_title": "Панорамный снимок зубов (ОПТГ)",
     "service_desc": "Обзорный снимок всех зубов и челюстей",
-    "service_link": "",
+    "service_link": "/services/lechenie-zubov/optg",
     "active": true
   },
   {
@@ -68,7 +68,7 @@
     "category_slug": "Ортодонтия",
     "service_title": "Брекеты Damon Q",
     "service_desc": "Надёжная металлическая система для коррекции прикуса",
-    "service_link": "",
+    "service_link": "/services/ortodontiya/brekety-damon-q",
     "active": true
   },
   {
@@ -76,7 +76,7 @@
     "category_slug": "Ортодонтия",
     "service_title": "Брекеты Damon Clear",
     "service_desc": "Эстетичные керамические брекеты, почти незаметные",
-    "service_link": "",
+    "service_link": "/services/ortodontiya/brekety-damon-clear",
     "active": true
   },
   {
@@ -84,7 +84,7 @@
     "category_slug": "Ортодонтия",
     "service_title": "Элайнеры",
     "service_desc": "Прозрачные капы для выравнивания зубов без дискомфорта",
-    "service_link": "",
+    "service_link": "/services/ortodontiya/elaynery",
     "active": true
   },
   {
