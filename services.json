@@ -460,7 +460,7 @@
     "category_slug": "Виниры",
     "service_title": "Установка виниров во сне",
     "service_desc": "Эстетическая реставрация без боли",
-    "service_link": "",
+    "service_link": "/services/lechenie-vo-sne/viniry-vo-sne",
     "active": true
   },
   {
@@ -468,7 +468,7 @@
     "category_slug": "Виниры",
     "service_title": "Препарирование под виниры",
     "service_desc": "Подготовка зубов перед установкой",
-    "service_link": "",
+    "service_link": "/services/viniry/preparirovanie-pod-viniry",
     "active": true
   },
   {
@@ -476,7 +476,7 @@
     "category_slug": "Исправление прикуса",
     "service_title": "Брекеты",
     "service_desc": "Металлические и керамические брекеты",
-    "service_link": "",
+    "service_link": "/services/ispravlenie-prikusa/brekety",
     "active": true
   },
   {
@@ -484,7 +484,7 @@
     "category_slug": "Исправление прикуса",
     "service_title": "Элайнеры",
     "service_desc": "Прозрачные капы",
-    "service_link": "",
+    "service_link": "/services/ispravlenie-prikusa/elaynery",
     "active": true
   },
   {
@@ -492,7 +492,7 @@
     "category_slug": "Исправление прикуса",
     "service_title": "Пластинки",
     "service_desc": "Съёмные аппараты",
-    "service_link": "",
+    "service_link": "/services/ispravlenie-prikusa/plastinki",
     "active": true
   },
   {
@@ -500,7 +500,7 @@
     "category_slug": "Исправление прикуса",
     "service_title": "Ортодонтические аппараты",
     "service_desc": "Несъёмные устройства",
-    "service_link": "",
+    "service_link": "/services/ispravlenie-prikusa/ortodonticheskie-apparaty",
     "active": true
   },
   {
@@ -508,7 +508,7 @@
     "category_slug": "Пародонтология",
     "service_title": "Гингивит",
     "service_desc": "Лечение воспаления дёсен на начальной стадии",
-    "service_link": "",
+    "service_link": "/services/parodontologiya/gingivit",
     "active": true
   },
   {
@@ -516,7 +516,7 @@
     "category_slug": "Пародонтология",
     "service_title": "Пародонтит",
     "service_desc": "Комплексное лечение глубоких тканей",
-    "service_link": "",
+    "service_link": "/services/parodontologiya/parodontit",
     "active": true
   },
   {
@@ -524,7 +524,7 @@
     "category_slug": "Пародонтология",
     "service_title": "Пародонтоз",
     "service_desc": "Системная терапия дистрофических изменений",
-    "service_link": "",
+    "service_link": "/services/parodontologiya/parodontoza",
     "active": true
   },
   {
@@ -532,7 +532,7 @@
     "category_slug": "Пародонтология",
     "service_title": "Лечение воспаления дёсен",
     "service_desc": "Кюретаж, шинирование, противовоспалительная терапия",
-    "service_link": "",
+    "service_link": "/services/parodontologiya/lechenie-desen",
     "active": true
   }
 ]
