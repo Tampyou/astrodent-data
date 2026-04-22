@@ -9,7 +9,8 @@
     "active": true,
     "signup_link": "#",
     "details_link": "/rogonyan-kristina",
-    "slug": "rogonyan-kristina"
+    "slug": "rogonyan-kristina",
+    "profile": ""
   },
   {
     "order": 2,
@@ -21,7 +22,8 @@
     "active": true,
     "signup_link": "#",
     "details_link": "#",
-    "slug": ""
+    "slug": "",
+    "profile": ""
   },
   {
     "order": 3,
@@ -33,7 +35,8 @@
     "active": true,
     "signup_link": "#",
     "details_link": "#",
-    "slug": ""
+    "slug": "",
+    "profile": ""
   },
   {
     "order": 4,
@@ -45,7 +48,8 @@
     "active": true,
     "signup_link": "#",
     "details_link": "#",
-    "slug": ""
+    "slug": "",
+    "profile": ""
   },
   {
     "order": 5,
@@ -57,6 +61,7 @@
     "active": true,
     "signup_link": "#",
     "details_link": "#",
-    "slug": ""
+    "slug": "",
+    "profile": ""
   }
 ]
