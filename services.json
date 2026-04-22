@@ -473,38 +473,6 @@
   },
   {
     "order": 1,
-    "category_slug": "ispravlenie-prikusa",
-    "service_title": "Брекеты",
-    "service_desc": "Металлические и керамические брекеты",
-    "service_link": "/services/ispravlenie-prikusa/brekety",
-    "active": true
-  },
-  {
-    "order": 2,
-    "category_slug": "ispravlenie-prikusa",
-    "service_title": "Элайнеры",
-    "service_desc": "Прозрачные капы",
-    "service_link": "/services/ispravlenie-prikusa/elaynery",
-    "active": true
-  },
-  {
-    "order": 3,
-    "category_slug": "ispravlenie-prikusa",
-    "service_title": "Пластинки",
-    "service_desc": "Съёмные аппараты",
-    "service_link": "/services/ispravlenie-prikusa/plastinki",
-    "active": true
-  },
-  {
-    "order": 4,
-    "category_slug": "ispravlenie-prikusa",
-    "service_title": "Ортодонтические аппараты",
-    "service_desc": "Несъёмные устройства",
-    "service_link": "/services/ispravlenie-prikusa/ortodonticheskie-apparaty",
-    "active": true
-  },
-  {
-    "order": 1,
     "category_slug": "parodontologiya",
     "service_title": "Гингивит",
     "service_desc": "Лечение воспаления дёсен на начальной стадии",
