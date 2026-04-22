@@ -78,13 +78,6 @@
   },
   {
     "order": 12,
-    "title": "Исправление прикуса",
-    "desc": "Красивая улыбка и здоровье зубов",
-    "active": true,
-    "link": "/services/ispravlenie-prikusa"
-  },
-  {
-    "order": 13,
     "title": "Пародонтология",
     "desc": "Здоровые дёсны – крепкие зубы",
     "active": true,
