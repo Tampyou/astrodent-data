@@ -522,7 +522,7 @@
   {
     "order": 41,
     "name": "Сытник Алексей Андреевич ",
-    "specialty": "",
+    "specialty": "Ортопед",
     "education": "2020 ‑ Ординатура, Волгоградский государственный медицинский университет — Стоматология ортопедическая",
     "addresses": "пр. Кировский, 126,\nг. Таганрог, ул. С. Лазо, 9",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777290509/img_reeuih.png",
@@ -535,7 +535,7 @@
   {
     "order": 42,
     "name": "Воловик Вячеслав Георгиевич",
-    "specialty": "",
+    "specialty": "Хирург и имплантолог",
     "education": "2022 - Ростовский государственный медицинский университет - Клиническая медицина (Аспирантура)",
     "addresses": "пр. Кировский, 126",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777291075/img_zclab9.png",
@@ -548,7 +548,7 @@
   {
     "order": 43,
     "name": "Шахмурадов Хизри Бадрутинович",
-    "specialty": "",
+    "specialty": "Хирург и имплантолог",
     "education": "2024 – Российский университет медицины (РосУниМед) – ординатура",
     "addresses": "пр. Кировский, 126",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777291082/img_ils755.png",
@@ -561,7 +561,7 @@
   {
     "order": 44,
     "name": "Горбатько Виктория Валерьевна",
-    "specialty": "",
+    "specialty": "Детский стоматолог",
     "education": "2017 - Медицинский университет «Реавиз» - Стоматология общей практики (Интернатура)",
     "addresses": "пр. Кировский, 126",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777292446/img_lgdblf.png",
@@ -574,7 +574,7 @@
   {
     "order": 45,
     "name": "Смирнов Владимир Алексеевич",
-    "specialty": "",
+    "specialty": "Терапевт",
     "education": "2019 - Донецкий государственный медицинский университет имени М. Горького - Стоматология (Базовое образование)",
     "addresses": "пр. Кировский, 126",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777292683/img_ut8znm.png",
@@ -587,7 +587,7 @@
   {
     "order": 46,
     "name": "Чхиквадзе Виктор Вахтангович",
-    "specialty": "",
+    "specialty": "Ортодонт",
     "education": "2024 - Ростовский государственный медицинский университет - Стоматология (Базовое образование)",
     "addresses": "пр. Кировский, 126,\nг. Таганрог, ул. С. Лазо, 9",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777293167/img_tnw8hg.png",
@@ -600,7 +600,7 @@
   {
     "order": 47,
     "name": "Кечерукова Алана Шамилевна",
-    "specialty": "",
+    "specialty": "Детский стоматолог",
     "education": "2023 - Ростовский государственный медицинский университет - Стоматология (Базовое образование)",
     "addresses": "пр. Кировский, 126",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777295813/img_lpnn7b.png",
@@ -613,7 +613,7 @@
   {
     "order": 48,
     "name": "Санамян Милена Алексеевна",
-    "specialty": "",
+    "specialty": "Детский стоматолог",
     "education": "2025 - Ростовский государственный медицинский университет - Стоматология (Базовое образование)",
     "addresses": "пр. Кировский, 126",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777293967/img_qylgi2.png",
@@ -626,7 +626,7 @@
   {
     "order": 49,
     "name": "Лепсая Мариам Геронтиевна",
-    "specialty": "",
+    "specialty": "Терапевт",
     "education": "2024 - Ростовский государственный медицинский университет - Стоматология (Базовое образование)",
     "addresses": "пр. Кировский, 126",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777295796/img_dfehuf.png",
@@ -639,7 +639,7 @@
   {
     "order": 50,
     "name": "Даренских Юлия Леонидовна",
-    "specialty": "",
+    "specialty": "Ортодонт",
     "education": "2019 - Волгоградский государственный медицинский университет - Ортодонтия (Ординатура)",
     "addresses": "пр. Кировский, 126,\nг. Таганрог, ул. С. Лазо, 9",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777295375/img_yvtumq.png",
@@ -652,7 +652,7 @@
   {
     "order": 51,
     "name": "Азаматов Мурат Альбертович ",
-    "specialty": "",
+    "specialty": "Терапевт",
     "education": "2024 - Ростовский государственный медицинский университет - Стоматология (Базовое образование)",
     "addresses": "г. Таганрог, ул. Чехова, 262",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777295838/img_vfvpvd.png",
@@ -665,7 +665,7 @@
   {
     "order": 52,
     "name": "Жилова Лилия Юрьевна",
-    "specialty": "",
+    "specialty": "Терапевт",
     "education": "2020 - Московский государственный медико-стоматологический университет имени А.И. Евдокимова - Стоматология терапевтическая (Ординатура)",
     "addresses": "г. Таганрог, ул. Чехова, 262",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777295780/img_w9qejz.png",
@@ -678,7 +678,7 @@
   {
     "order": 53,
     "name": "Мартиросян Мкртич Масисович ",
-    "specialty": "",
+    "specialty": "Ортопед",
     "education": "2021 - Ростовский государственный медицинский университет - Стоматология (Базовое образование)",
     "addresses": "г. Таганрог, ул. Чехова, 262",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777296402/img_ad7bfb.png",
@@ -691,7 +691,7 @@
   {
     "order": 54,
     "name": "Оганесян Лиана Кареновна ",
-    "specialty": "",
+    "specialty": "Ортодонт",
     "education": "2018 - Ростовский государственный медицинский университет - Стоматология (Базовое образование)",
     "addresses": "г. Таганрог, ул. Чехова, 262",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777296634/img_mkeeuq.png",
