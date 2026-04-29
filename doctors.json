@@ -104,19 +104,6 @@
     "profile": "Нарушение развития и прорезывания зубов, Пульпит у детей, Гиперестезия зубов, Периодонтит"
   },
   {
-    "order": 9,
-    "name": "Раева Олеся Олеговна",
-    "specialty": "Детский стоматолог",
-    "education": "2022 - Ставропольский институт повышения квалификации «КарьераМедиФарм» - Стоматология детская",
-    "addresses": "пр. Стачки, 55",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777030699/img_raqxqz.png",
-    "active": true,
-    "signup_link": "#",
-    "details_link": "/specialists/raeva-olesya-olegovna",
-    "slug": "raeva-olesya-olegovna",
-    "profile": "Кариес, Пульпит у детей, Периодонтит, Зубной камень"
-  },
-  {
     "order": 10,
     "name": "Симоненко Наталья Олеговна",
     "specialty": "Ортодонт",
