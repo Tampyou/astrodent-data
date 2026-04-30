@@ -1,18 +1,5 @@
 [
   {
-    "order": 1,
-    "name": "Багаджиян Нина Геворковна",
-    "specialty": "Терапевт",
-    "education": "2020 - Ростовский государственный медицинский университет - Стоматология хирургическая",
-    "addresses": "пр. Стачки, 55",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777027530/img_pb4ztx.png",
-    "active": true,
-    "signup_link": "#",
-    "details_link": "/specialists/bagadzhiyan-nina-gevorkovna",
-    "slug": "bagadzhiyan-nina-gevorkovna",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
-  },
-  {
     "order": 2,
     "name": "Бамматов Арсен Джапарович",
     "specialty": "Терапевт",
