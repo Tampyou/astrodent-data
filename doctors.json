@@ -1074,9 +1074,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777887386/img_excdxc.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/shikhmagomedov-farid-magomedovich",
+    "slug": "shikhmagomedov-farid-magomedovich",
+    "profile": "Кариес, Пульпит зуба, Периодонтит"
   },
   {
     "order": 86,
@@ -1087,9 +1087,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777887510/img_ebusam.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/akopyan-bella-shotaevna",
+    "slug": "akopyan-bella-shotaevna",
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит"
   },
   {
     "order": 87,
@@ -1100,9 +1100,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777887658/img_hea8ho.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/kayalova-evgeniya-viktorovna",
+    "slug": "kayalova-evgeniya-viktorovna",
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит"
   },
   {
     "order": 88,
@@ -1113,9 +1113,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777887844/img_ctr2cz.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/talalaeva-sofya-aleksandrovna",
+    "slug": "talalaeva-sofya-aleksandrovna",
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Нарушение развития и прорезывания зубов"
   },
   {
     "order": 89,
@@ -1126,9 +1126,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777887985/img_surmor.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/baroyan-oleg-olegovich",
+    "slug": "baroyan-oleg-olegovich",
+    "profile": "Неправильный прикус, Дистальный прикус, Мезиальный прикус, Глубокий прикус, Перекрёстный прикус"
   },
   {
     "order": 90,
@@ -1139,9 +1139,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777888148/img_uomlts.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/shtanke-nataliya-vadimovna",
+    "slug": "shtanke-nataliya-vadimovna",
+    "profile": "Аномалия зуба, Неправильный прикус, Мезиальный прикус, Дистальный прикус, Глубокий прикус"
   },
   {
     "order": 91,
@@ -1152,9 +1152,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777888300/img_xvg93z.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/nigmatullina-yuliya-eduardovna",
+    "slug": "nigmatullina-yuliya-eduardovna",
+    "profile": "Неправильный прикус, Дистальный прикус, Перекрёстный прикус, Диастема, Мезиальный прикус"
   },
   {
     "order": 92,
@@ -1165,9 +1165,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777888880/img_dr4ku2.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/bedzhanyan-ovik-valerevich",
+    "slug": "bedzhanyan-ovik-valerevich",
+    "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия"
   },
   {
     "order": 93,
@@ -1178,9 +1178,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777889153/img_kdgvhp.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/bezhko-dmitriy-sergeevich",
+    "slug": "bezhko-dmitriy-sergeevich",
+    "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия"
   },
   {
     "order": 94,
@@ -1191,9 +1191,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777889459/img_pzpho9.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/kecherukova-alana-shamilevna",
+    "slug": "kecherukova-alana-shamilevna",
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Глоссит, Нарушение развития и прорезывания зубов"
   },
   {
     "order": 95,
@@ -1204,9 +1204,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777889710/img_pirwfs.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/malygin-vladimir-nikolaevich",
+    "slug": "malygin-vladimir-nikolaevich",
+    "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия"
   },
   {
     "order": 96,
@@ -1217,9 +1217,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777890251/img_sosyjp.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/dadaev-magomed-omarovich",
+    "slug": "dadaev-magomed-omarovich",
+    "profile": "Ретинированный зуб, Дистопия зуба, Вывих зуба, Перелом зуба, Аномалия зуба"
   },
   {
     "order": 97,
@@ -1230,9 +1230,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777890754/img_aclkl4.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/usachev-andrey-ruslanovich",
+    "slug": "usachev-andrey-ruslanovich",
+    "profile": "Ретинированный зуб, Вывих зуба, Перелом зуба, Аномалия зуба"
   },
   {
     "order": 98,
@@ -1243,9 +1243,9 @@
     "photo": "https://www.krea.ai/api/img?f=webp&i=https%3A%2F%2Fapp-uploads.krea.ai%2Fpublic%2F8b9065f9-e3e5-4b85-aaad-26ef1d196a60-image.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/andriyanov-maksim-sergeevich",
+    "slug": "andriyanov-maksim-sergeevich",
+    "profile": "Адентия, Зуб ретенированный, Периодонтит, Периостит"
   },
   {
     "order": 99,
@@ -1256,9 +1256,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777891165/img_ev2zdi.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/boychevskaya-oksana-alekseevna",
+    "slug": "boychevskaya-oksana-alekseevna",
+    "profile": "Адентия, Диастема, Пигментация зубов, Аномалия зуба, Перелом зуба"
   },
   {
     "order": 100,
@@ -1269,9 +1269,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777891297/img_qtzton.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/gruzdev-nikita-romanovich",
+    "slug": "gruzdev-nikita-romanovich",
+    "profile": "Стертые зубы, Адентия"
   },
   {
     "order": 101,
@@ -1282,9 +1282,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777892049/img_scgf3f.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/minchenko-valeriy-igorevich",
+    "slug": "minchenko-valeriy-igorevich",
+    "profile": "Адентия, Диастема, Дистопия зуба, Перелом зуба, Вывих зуба"
   },
   {
     "order": 102,
@@ -1295,9 +1295,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777892586/img_lkjgw5.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/parisov-faris-abdulnasirovich",
+    "slug": "parisov-faris-abdulnasirovich",
+    "profile": "Кариес, Пульпит зуба, Периодонтит"
   },
   {
     "order": 103,
@@ -1308,9 +1308,9 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777892821/img_yiyc96.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/limonova-viktoriya-igorevna",
+    "slug": "limonova-viktoriya-igorevna",
+    "profile": "Кариес, Пульпит зуба, Периодонтит"
   },
   {
     "order": 104,
@@ -1321,8 +1321,8 @@
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777893299/img_aupedl.png",
     "active": true,
     "signup_link": "#",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/bayramkulov-ismail-alisultanovich",
+    "slug": "bayramkulov-ismail-alisultanovich",
+    "profile": "Гингивит, Пульпит зуба, Периодонтит, Пародонтит, Кариес"
   }
 ]
