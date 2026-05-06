@@ -338,19 +338,6 @@
     "profile": "Кариес, Пульпит зуба, Периодонтит"
   },
   {
-    "order": 29,
-    "name": "Беловолова Дарья Андреевна",
-    "specialty": "Терапевт",
-    "education": "2021 - Ростовский государственный медицинский университет - Стоматология",
-    "addresses": "пр. Кировский, 126",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777274422/img_zugsnx.png",
-    "active": true,
-    "signup_link": "#",
-    "details_link": "/specialists/belovolova-darya-andreevna",
-    "slug": "belovolova-darya-andreevna",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
-  },
-  {
     "order": 30,
     "name": "Тхашугоев Азамат Мухамедович",
     "specialty": "Терапевт",
@@ -778,19 +765,6 @@
     "details_link": "/specialists/zakaryan-anna-igorevna",
     "slug": "zakaryan-anna-igorevna",
     "profile": "Зубной налет, Зубной камень, Кариес, Пульпит зуба, Периодонтит"
-  },
-  {
-    "order": 63,
-    "name": "Кравченко Сергей Дмитриевич",
-    "specialty": "Терапевт",
-    "education": "2021 - Донецкий государственный медицинский университет имени М. Горького - Стоматология общей практики",
-    "addresses": "г. Таганрог, ул. С. Лазо, 9",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777359765/img_noidnq.png",
-    "active": true,
-    "signup_link": "#",
-    "details_link": "/specialists/kravchenko-sergey-dmitrievich",
-    "slug": "kravchenko-sergey-dmitrievich",
-    "profile": "Кариес, Периодонтит, Пульпит зуба, Пародонтит, \nКлиновидный дефект"
   },
   {
     "order": 64,
