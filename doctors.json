@@ -1285,5 +1285,70 @@
     "details_link": "/specialists/bayramkulov-ismail-alisultanovich",
     "slug": "bayramkulov-ismail-alisultanovich",
     "profile": "Гингивит, Пульпит зуба, Периодонтит, Пародонтит, Кариес"
+  },
+  {
+    "order": 105,
+    "name": "Забора Анастасия Алексеевна",
+    "specialty": "Терапевт",
+    "education": "2024 - Ростовский государственный медицинский университет - Стоматология (Базовое образование)",
+    "addresses": "пр. Кировский, 126",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778229134/img_scl99w.jpg",
+    "active": true,
+    "signup_link": "#",
+    "details_link": "/specialists/zabora-anastasiya-alekseevna",
+    "slug": "zabora-anastasiya-alekseevna",
+    "profile": "Гингивит, Пульпит зуба, Периодонтит, Пародонтит, Кариес"
+  },
+  {
+    "order": 106,
+    "name": "Платов Ислам Нухтарович",
+    "specialty": "Терапевт",
+    "education": "2025 - Медицинский университет «Реавиз» - Стоматология (Базовое образование)",
+    "addresses": "г. Таганрог, ул. Чехова, 262",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778228097/img_e93jwh.png",
+    "active": true,
+    "signup_link": "#",
+    "details_link": "/specialists/platov-islam-nukhtarovich",
+    "slug": "platov-islam-nukhtarovich",
+    "profile": "Гингивит, Пульпит зуба, Периодонтит, Пародонтит, Кариес"
+  },
+  {
+    "order": 107,
+    "name": "Колечко Захар Андреевич",
+    "specialty": "Хирург и имплантолог",
+    "education": "2025 - Ставропольский государственный медицинский университет - Стоматология хирургическая (Ординатура)",
+    "addresses": "пр-т 40-летие Победы, 212",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778230112/img_jxsjst.jpg",
+    "active": true,
+    "signup_link": "#",
+    "details_link": "/specialists/kolechko-zakhar-andreevich",
+    "slug": "kolechko-zakhar-andreevich",
+    "profile": "Ретинированный зуб, Вывих зуба, Перелом зуба, Аномалия зуба"
+  },
+  {
+    "order": 108,
+    "name": "Щевичкин Марат Эдуардович",
+    "specialty": "Ортопед",
+    "education": "2019 - Кубанский государственный медицинский университет - Стоматология (Базовое образование)",
+    "addresses": "пр-т 40-летие Победы, 212",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778231081/img_hn5f0s.jpg",
+    "active": true,
+    "signup_link": "#",
+    "details_link": "/specialists/shchevichkin-marat-eduardovich",
+    "slug": "shchevichkin-marat-eduardovich",
+    "profile": "Адентия, Перелом зуба, Стертые зубы, Аномалия зуба, Повышенная стираемость зубов"
+  },
+  {
+    "order": 109,
+    "name": "Оганесян Айрик Артурович",
+    "specialty": "Терапевт",
+    "education": "2025 - Ростовский государственный медицинский университет - Стоматология (Базовое образование)",
+    "addresses": "пр-т 40-летие Победы, 212",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778232646/img_wkxvaj.jpg",
+    "active": true,
+    "signup_link": "#",
+    "details_link": "/specialists/oganesyan-ayrik-arturovich",
+    "slug": "oganesyan-ayrik-arturovich",
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
   }
 ]
