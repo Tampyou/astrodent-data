@@ -1350,5 +1350,18 @@
     "details_link": "/specialists/oganesyan-ayrik-arturovich",
     "slug": "oganesyan-ayrik-arturovich",
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
+  },
+  {
+    "order": 110,
+    "name": "Карапетян Валерия Дмитриевна",
+    "specialty": "Терапевт",
+    "education": "2024 - Волгоградский государственный медицинский университет - Стоматология (Базовое образование)",
+    "addresses": "пр-т 40-летие Победы, 212",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778239422/img_iklyot.jpg",
+    "active": true,
+    "signup_link": "#",
+    "details_link": "/specialists/karapetyan-valeriya-dmitrievna",
+    "slug": "karapetyan-valeriya-dmitrievna",
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
   }
 ]
