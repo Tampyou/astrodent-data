@@ -14,7 +14,7 @@
     "end_date": "2026-04-29T21:00:00.000Z"
   },
   {
-    "order": 2,
+    "order": 5,
     "slug": "otbelivanie-zoom4",
     "active": true,
     "title": "Тот самый день для идеальной улыбки",
@@ -28,7 +28,7 @@
     "end_date": "2026-04-29T21:00:00.000Z"
   },
   {
-    "order": 3,
+    "order": 8,
     "slug": "elajnery-spark-advanced",
     "active": true,
     "title": "Элайнеры\nSPARK ADVANCED\nза 339 000 рублей",
@@ -56,7 +56,7 @@
     "end_date": "2026-04-29T21:00:00.000Z"
   },
   {
-    "order": 5,
+    "order": 2,
     "slug": "lechenie-kariesa-garantiya-2-goda",
     "active": true,
     "title": "Лечение кариеса с гарантией 2 года",
@@ -98,7 +98,7 @@
     "end_date": ""
   },
   {
-    "order": 8,
+    "order": 3,
     "slug": "implant-dentium",
     "active": true,
     "title": "Установка импланта DENTIUM от 29 800 рублей",
