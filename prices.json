@@ -1,4 +1,4 @@
-[
+﻿[
   {
     "category": "Диагностика заболеваний и лечение зубов",
     "service": "Первичный прием (осмотр и консультация) врача стоматолога-терапевта",
@@ -13,7 +13,7 @@
     "category": "Диагностика заболеваний и лечение зубов",
     "service": "Повторный прием (осмотр и консультация) врача стоматолога-терапевта",
     "description": "",
-    "price": 500,
+    "price": 1500,
     "old_price": "",
     "order": 2,
     "active": true,
@@ -83,8 +83,8 @@
     "category": "Гигиена, отбеливание",
     "service": "Первичная профессиональная гигиена полости рта и зубов",
     "description": "",
-    "price": 5500,
-    "old_price": 6100,
+    "price": 5900,
+    "old_price": 6500,
     "order": 1,
     "active": true,
     "signup_link": "#widget"
@@ -93,8 +93,8 @@
     "category": "Гигиена, отбеливание",
     "service": "Профессиональная гигиена полости рта и зубов плановая",
     "description": "",
-    "price": 4900,
-    "old_price": 5400,
+    "price": 5200,
+    "old_price": 5700,
     "order": 2,
     "active": true,
     "signup_link": "#widget"
@@ -353,7 +353,7 @@
     "category": "Хирургия, имплантация",
     "service": "Удаление ретинированного дистопированного зуба повышенной сложности",
     "description": "",
-    "price": 18000,
+    "price": 18100,
     "old_price": "",
     "order": 4,
     "active": true,
@@ -483,7 +483,7 @@
     "category": "Детская стоматология",
     "service": "Удаление молочного зуба",
     "description": "",
-    "price": 2800,
+    "price": 3200,
     "old_price": "",
     "order": 4,
     "active": true,
@@ -493,7 +493,7 @@
     "category": "Детская стоматология",
     "service": "Лечение кариеса молочного зуба",
     "description": "",
-    "price": 4400,
+    "price": 4700,
     "old_price": "",
     "order": 5,
     "active": true,
