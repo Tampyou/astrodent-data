@@ -520,19 +520,6 @@
     "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус"
   },
   {
-    "order": 47,
-    "name": "kecherukova-alana-shamilevna",
-    "specialty": "Детский стоматолог",
-    "education": "2023 - Ростовский государственный медицинский университет - Стоматология (Базовое образование)",
-    "addresses": "пр. Кировский, 126",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777295813/img_lpnn7b.png",
-    "active": true,
-    "signup_link": "#widget",
-    "details_link": "/specialists/kecherukova-alana-shamilevna",
-    "slug": "kekerukova-alana-shamilevna",
-    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит"
-  },
-  {
     "order": 48,
     "name": "Санамян Милена Алексеевна",
     "specialty": "Детский стоматолог",
