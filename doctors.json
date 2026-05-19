@@ -78,19 +78,6 @@
     "profile": "Нарушение развития и прорезывания зубов, Пульпит у детей, Гиперестезия зубов, Периодонтит"
   },
   {
-    "order": 10,
-    "name": "Симоненко Наталья Олеговна",
-    "specialty": "Ортодонт",
-    "education": "2022 - Ростовский государственный медицинский университет - Стоматология",
-    "addresses": "пр. Стачки, 55",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777031120/img_epxfwc.png",
-    "active": true,
-    "signup_link": "#widget",
-    "details_link": "/specialists/simonenko-natalya-olegovna",
-    "slug": "simonenko-natalya-olegovna",
-    "profile": "Неправильный прикус, Глубокий прикус, Перекрёстный прикус, Мезиальный прикус, Дистальный прикус"
-  },
-  {
     "order": 11,
     "name": "Левашов Эрнест Владимирович",
     "specialty": "Хирург и имплантолог",
