@@ -13,19 +13,6 @@
     "profile": "Кариес, Пульпит зуба, Периодонтит"
   },
   {
-    "order": 3,
-    "name": "Мещерякова Татьяна Александровна",
-    "specialty": "Ортодонт",
-    "education": "2024 - Ставропольский государственный медицинский университет Ортодонтия",
-    "addresses": "пр. Стачки, 55",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777028081/img_ti7g4r.png",
-    "active": true,
-    "signup_link": "#widget",
-    "details_link": "/specialists/meshcheryakova-tatyana-aleksandrovna",
-    "slug": "meshcheryakova-tatyana-aleksandrovna",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
-  },
-  {
     "order": 4,
     "name": "Роганян Кристина Врежевна",
     "specialty": "Терапевт",
