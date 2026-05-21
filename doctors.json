@@ -1324,5 +1324,18 @@
     "details_link": "/specialists/karapetyan-valeriya-dmitrievna",
     "slug": "karapetyan-valeriya-dmitrievna",
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
+  },
+  {
+    "order": 111,
+    "name": "Абдулаева Хадижат Магомедовна",
+    "specialty": "Терапевт",
+    "education": "2025 - Медицинский университет «Реавиз» - Стоматология (Базовое образование)",
+    "addresses": "пр. Стачки, 55",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778654350/img_wbsgrr.png",
+    "active": true,
+    "signup_link": "#widget",
+    "details_link": "/specialists/abdulaeva-hadizhat-magomedovna",
+    "slug": "abdulaeva-hadizhat-magomedovna",
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
   }
 ]
