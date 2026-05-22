@@ -1363,5 +1363,18 @@
     "details_link": "/specialists/manych-yuliya-andreevna",
     "slug": "manych-yuliya-andreevna",
     "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Глоссит, Нарушение развития и прорезывания зубов"
+  },
+  {
+    "order": 114,
+    "name": "Киндюшова Ирина Викторовна",
+    "specialty": "Терапевт",
+    "education": "2025 - Ростовский государственный медицинский университет - Стоматология терапевтическая (Ординатура)",
+    "addresses": "г. Таганрог, ул. С. Лазо, 9",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1779437860/img_zfxi7o.png",
+    "active": true,
+    "signup_link": "#widget",
+    "details_link": "/specialists/kindyushova-irina-viktorovna",
+    "slug": "kindyushova-irina-viktorovna",
+    "profile": "Кариес, Зубной налет, Зубной камень, Гиперестезия зубов, Пульпит зуба"
   }
 ]
