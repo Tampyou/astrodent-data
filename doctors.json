@@ -1376,5 +1376,18 @@
     "details_link": "/specialists/kindyushova-irina-viktorovna",
     "slug": "kindyushova-irina-viktorovna",
     "profile": "Кариес, Зубной налет, Зубной камень, Гиперестезия зубов, Пульпит зуба"
+  },
+  {
+    "order": 115,
+    "name": "",
+    "specialty": "",
+    "education": "",
+    "addresses": "",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1779796974/img_m8kqer.jpg",
+    "active": true,
+    "signup_link": "#widget",
+    "details_link": "",
+    "slug": "",
+    "profile": ""
   }
 ]
