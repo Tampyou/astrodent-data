@@ -1382,12 +1382,12 @@
     "name": "Остапова Елена Егоровна",
     "specialty": "Терапевт",
     "education": "1987 - Днепропетровская государственная медицинская академия - Стоматология (Базовое образование)",
-    "addresses": "",
+    "addresses": "пр. Космонавтов, 14 Б",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1779796974/img_m8kqer.jpg",
     "active": true,
     "signup_link": "#widget",
-    "details_link": "",
-    "slug": "",
-    "profile": ""
+    "details_link": "/specialists/ostapova-elena-egorovna",
+    "slug": "ostapova-elena-egorovna",
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
   }
 ]
