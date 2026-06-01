@@ -8,13 +8,13 @@
     "full_desc": "Мировой бренд теперь и в Астродент!\nНемецкие имплантационные системы MEDENTIKA - это немецкое качество по доступной цене.\nЗубные импланты от 26 000 рублей.\nСистемы \"ВСЁ-НА-4\", \"ВСЁ-НА-6\" от 157 000 руб.",
     "img": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778767278/%D0%90%D0%BA%D1%86%D0%B8%D1%8F_12_e9rikw.jpg",
     "link": "/promotions/medentica-implanty",
-    "sub1": "Акция действительна до конца мая",
+    "sub1": "Акция действительна до конца июня",
     "sub2": "",
-    "start_date": "2026-03-31T21:00:00.000Z",
+    "start_date": "2026-05-31T21:00:00.000Z",
     "end_date": "2026-04-29T21:00:00.000Z"
   },
   {
-    "order": 5,
+    "order": 3,
     "slug": "otbelivanie-zoom4",
     "active": true,
     "title": "Тот самый день для идеальной улыбки",
@@ -22,9 +22,9 @@
     "full_desc": "Сделать идеальную улыбку проще, чем кажется!\nС помощью технологии эффективного, быстрого и щадящего отбеливания с использованием профессиональной системы ZOOM4*",
     "img": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778767280/%D0%90%D0%BA%D1%86%D0%B8%D1%8F_11_z4sxel.jpg",
     "link": "/promotions/otbelivanie-zoom4",
-    "sub1": "Акция действительна до конца мая",
+    "sub1": "Акция действительна до конца июня",
     "sub2": "",
-    "start_date": "2026-03-31T21:00:00.000Z",
+    "start_date": "2026-05-31T21:00:00.000Z",
     "end_date": "2026-04-29T21:00:00.000Z"
   },
   {
@@ -36,13 +36,13 @@
     "full_desc": "Элайнеры нового поколения SPARK прозрачные и почти незаметные в повседневной жизни - эстетичное и современное решение! Подарите себе улыбку мечты.",
     "img": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778767280/%D0%90%D0%BA%D1%86%D0%B8%D1%8F_8_kvbkse.jpg",
     "link": "/promotions/elajnery-spark-advanced",
-    "sub1": "Акция действительна до конца мая",
+    "sub1": "Акция действительна до конца июня",
     "sub2": "",
-    "start_date": "2026-03-31T21:00:00.000Z",
+    "start_date": "2026-05-31T21:00:00.000Z",
     "end_date": "2026-04-29T21:00:00.000Z"
   },
   {
-    "order": 4,
+    "order": 10,
     "slug": "lechenie-pod-narkozom",
     "active": true,
     "title": "Лечение под наркозом",
@@ -50,9 +50,9 @@
     "full_desc": "Лечение зубов под наркозом – простое решение, которое помогает минимизировать стресс, сделать процесс более комфортным и сократить длительность лечения.\r\nВосстановление улыбки без лишних тревог и с большей выгодой.",
     "img": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778767280/%D0%90%D0%BA%D1%86%D0%B8%D1%8F_10_fk6yzs.jpg",
     "link": "/promotions/lechenie-pod-narkozom",
-    "sub1": "Акция действительна до конца мая",
+    "sub1": "Акция действительна до конца июня",
     "sub2": "",
-    "start_date": "2026-03-31T21:00:00.000Z",
+    "start_date": "2026-05-31T21:00:00.000Z",
     "end_date": "2026-04-29T21:00:00.000Z"
   },
   {
@@ -64,13 +64,13 @@
     "full_desc": "Вылечи кариес в пределах эмали зуба на выгодных условиях за 5500 рублей\nЛечение кариеса без микроскопа или под микроскопом",
     "img": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778767280/%D0%90%D0%BA%D1%86%D0%B8%D1%8F_9_vcekd3.jpg",
     "link": "/promotions/lechenie-kariesa-garantiya-2-goda",
-    "sub1": "Акция действительна до конца мая",
+    "sub1": "Акция действительна до конца июня",
     "sub2": "",
-    "start_date": "2026-03-31T21:00:00.000Z",
-    "end_date": "2026-04-29T21:00:00.000Z"
+    "start_date": "2026-05-31T21:00:00.000Z",
+    "end_date": "2026-06-29T21:00:00.000Z"
   },
   {
-    "order": 6,
+    "order": 4,
     "slug": "professionalnaya-chistka-air-flow",
     "active": true,
     "title": "Профессиональная чистка зубов Air Flow \nза 5 900 рублей",
@@ -78,13 +78,13 @@
     "full_desc": "Комплексная гигиена полости рта - лучшая профилактика кариеса и воспаление десен\nПройдите мягкое, безопасное и эффективное очищение с использованием порошков KaVo из Германии и NSK из Японии.",
     "img": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778767279/%D0%90%D0%BA%D1%86%D0%B8%D1%8F_7_fypgyn.jpg",
     "link": "/promotions/professionalnaya-chistka-air-flow",
-    "sub1": "Акция действительна до конца мая",
+    "sub1": "Акция действительна до конца июня",
     "sub2": "",
     "start_date": "",
     "end_date": ""
   },
   {
-    "order": 7,
+    "order": 11,
     "slug": "koronki-iz-dioksida-cirkoniya",
     "active": true,
     "title": "Надежные коронки из диоксида циркония\nза 26 100 рублей",
@@ -92,27 +92,27 @@
     "full_desc": "Восстановление родного зуба с высокой точностью и гарантией качества - мы поможем вернуть эстетику вашей улыбки.",
     "img": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778767278/%D0%90%D0%BA%D1%86%D0%B8%D1%8F_6_f3dxus.jpg",
     "link": "/promotions/koronki-iz-dioksida-cirkoniya",
-    "sub1": "Акция действительна до конца мая",
+    "sub1": "Акция действительна до конца июня",
     "sub2": "",
     "start_date": "",
     "end_date": ""
   },
   {
-    "order": 3,
+    "order": 6,
     "slug": "implant-dentium",
     "active": true,
-    "title": "Установка импланта DENTIUM \nот 29 800 рублей",
+    "title": "Имплантация \n«Все-на-4»\nот 157 000 руб.",
     "desc": "Качественное решение для отсутствующего зуба.\nВосстановите улыбку и уверенность в себе на 100%",
     "full_desc": "Восстановите утраченный зуб с помощью имплантов Dentium (Южная Корея) по выгодной цене до конца февраля",
     "img": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778767278/%D0%90%D0%BA%D1%86%D0%B8%D1%8F_5_w2i9zz.jpg",
     "link": "/promotions/implant-dentium",
-    "sub1": "Акция действительна до конца мая",
+    "sub1": "Акция действительна до конца июня",
     "sub2": "",
     "start_date": "",
     "end_date": ""
   },
   {
-    "order": 9,
+    "order": 7,
     "slug": "breket-sistema-damon-q",
     "active": true,
     "title": "Брекет-система \nDamon Q \nза 88 700 рублей на одну челюсть",
@@ -120,13 +120,13 @@
     "full_desc": "Подарите себе идеальную улыбку с помощью высокоэффективной и комфортной брекет-системы Damon Q из США",
     "img": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778767278/%D0%90%D0%BA%D1%86%D0%B8%D1%8F_1_xxociu.jpg",
     "link": "/promotions/breket-sistema-damon-q",
-    "sub1": "Акция действительна до конца мая",
+    "sub1": "Акция действительна до конца июня",
     "sub2": "",
     "start_date": "",
     "end_date": ""
   },
   {
-    "order": 10,
+    "order": 9,
     "slug": "breket-sistema-mini-diamond",
     "active": true,
     "title": "Брекет-система \nMini Diamond \nза 56 600 рублей на одну челюсть",
@@ -134,13 +134,13 @@
     "full_desc": "Брекет-система Mini Damond позволит сделать вашу терапию максимально креативной, индивидуальной и очень эффективной",
     "img": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778767278/%D0%90%D0%BA%D1%86%D0%B8%D1%8F_2_anxjrc.jpg",
     "link": "/promotions/breket-sistema-mini-diamond",
-    "sub1": "Акция действительна до конца мая",
+    "sub1": "Акция действительна до конца июня",
     "sub2": "",
     "start_date": "",
     "end_date": ""
   },
   {
-    "order": 11,
+    "order": 12,
     "slug": "semejnaya-nakopitelnaya-programma",
     "active": true,
     "title": "Семейная накопительная программа скидок",
@@ -148,13 +148,13 @@
     "full_desc": "Суммы, потраченные на визиты в Астродент, суммируются и формируют процент скидки на последующие приемы. Чем больше семья — тем выгоднее!",
     "img": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778767279/%D0%90%D0%BA%D1%86%D0%B8%D1%8F_3_mcz2ih.jpg",
     "link": "/promotions/semejnaya-nakopitelnaya-programma",
-    "sub1": "Акция действительна до конца мая",
+    "sub1": "Акция действительна до конца июня",
     "sub2": "",
     "start_date": "",
     "end_date": ""
   },
   {
-    "order": 12,
+    "order": 5,
     "slug": "lechim-zuby-svoim",
     "active": true,
     "title": "Лечим зубы СВОим",
@@ -162,7 +162,7 @@
     "full_desc": "Программа лояльности для участников СВО и членов их семей",
     "img": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778767278/%D0%90%D0%BA%D1%86%D0%B8%D1%8F_4_aldei3.jpg",
     "link": "/promotions/lechim-zuby-svoim",
-    "sub1": "Акция действительна до конца мая",
+    "sub1": "Акция действительна до конца июня",
     "sub2": "",
     "start_date": "",
     "end_date": ""
