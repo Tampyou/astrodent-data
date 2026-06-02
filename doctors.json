@@ -1402,5 +1402,18 @@
     "details_link": "/specialists/russu-viktoriya-igorevna",
     "slug": "russu-viktoriya-igorevna",
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
+  },
+  {
+    "order": 117,
+    "name": "Максютенко Андрей Сергеевич",
+    "specialty": "Ортопед",
+    "education": "2006 - Донецкий государственный медицинский университет имени М. Горького",
+    "addresses": "пр. Стачки, 55",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1780387443/img_ztyqoe.jpg",
+    "active": true,
+    "signup_link": "#widget",
+    "details_link": "/specialists/maksyutenko-andrey-sergeevich",
+    "slug": "/maksyutenko-andrey-sergeevich",
+    "profile": "Адентия, Перелом зуба, Стертые зубы, Аномалия зуба, Повышенная стираемость зубов"
   }
 ]
