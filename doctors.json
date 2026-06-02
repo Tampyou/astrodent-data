@@ -1389,5 +1389,18 @@
     "details_link": "/specialists/ostapova-elena-egorovna",
     "slug": "ostapova-elena-egorovna",
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
+  },
+  {
+    "order": 116,
+    "name": "Руссу Виктория Игоревна",
+    "specialty": "Терапевт",
+    "education": "2023 - Медицинский университет «Реавиз» - Стоматология (Базовое образование)",
+    "addresses": "пр. Стачки, 55",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1779434595/img_ft31rr.jpg",
+    "active": true,
+    "signup_link": "#widget",
+    "details_link": "/specialists/russu-viktoriya-igorevna",
+    "slug": "russu-viktoriya-igorevna",
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
   }
 ]
