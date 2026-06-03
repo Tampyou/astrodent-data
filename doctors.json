@@ -1402,5 +1402,18 @@
     "details_link": "/specialists/maksyutenko-andrey-sergeevich",
     "slug": "maksyutenko-andrey-sergeevich",
     "profile": "Адентия, Перелом зуба, Стертые зубы, Аномалия зуба, Повышенная стираемость зубов"
+  },
+  {
+    "order": 118,
+    "name": "Чолокава Елена Владимировна",
+    "specialty": "Терапевт",
+    "education": "1995 - Ростовский базовый медицинский колледж",
+    "addresses": "пр. Космонавтов, 14 Б",
+    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1780476534/img_slgwri.jpg",
+    "active": true,
+    "signup_link": "#widget",
+    "details_link": "/specialists/cholokava-elena-vladimirovna",
+    "slug": "cholokava-elena-vladimirovna",
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
   }
 ]
