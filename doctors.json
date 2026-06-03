@@ -156,19 +156,6 @@
     "profile": "Кариес, Пульпит зуба, \nПериодонтит, Удаление зубов, Дентальная имплантация"
   },
   {
-    "order": 17,
-    "name": "Гюльметов Нурудин Альбертович",
-    "specialty": "Терапевт",
-    "education": "2020 - Волгоградский государственный медицинский университет - Стоматология",
-    "addresses": "пр. Стачки, 55",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777034626/img_n9nzok.png",
-    "active": true,
-    "signup_link": "#widget",
-    "details_link": "/specialists/gyulmetov-nurudin-albertovich",
-    "slug": "gyulmetov-nurudin-albertovich",
-    "profile": "Зубной камень, Зубной налет, Все виды отбеливания зубов"
-  },
-  {
     "order": 18,
     "name": "Рязанцева Дарина Викторовна",
     "specialty": "Детский стоматолог",
