@@ -923,19 +923,6 @@
     "profile": "Зубной налет, Зубной камень"
   },
   {
-    "order": 81,
-    "name": "Ёгина Диана Вячеславовна",
-    "specialty": "Ортопед",
-    "education": "2023 - Ростовский государственный медицинский университет - Клиническая медицина",
-    "addresses": "пр. Космонавтов, 14 Б",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778842519/img_u3qnah.png",
-    "active": true,
-    "signup_link": "#widget",
-    "details_link": "/specialists/yogina-diana-vyacheslavovna",
-    "slug": "yogina-diana-vyacheslavovna",
-    "profile": "Кариес, Пульпит зуба, Периодонтит, Пародонтит, Гиперестезия зубов"
-  },
-  {
     "order": 82,
     "name": "Змиенко Вячеслав Александрович",
     "specialty": "Ортопед",
@@ -1300,23 +1287,10 @@
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
   },
   {
-    "order": 110,
-    "name": "Карапетян Валерия Дмитриевна",
-    "specialty": "Терапевт",
-    "education": "2024 - Волгоградский государственный медицинский университет - Стоматология (Базовое образование)",
-    "addresses": "пр-т 40-летие Победы, 212",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778239422/img_iklyot.jpg",
-    "active": true,
-    "signup_link": "#widget",
-    "details_link": "/specialists/karapetyan-valeriya-dmitrievna",
-    "slug": "karapetyan-valeriya-dmitrievna",
-    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
-  },
-  {
     "order": 111,
     "name": "Абдулаева Хадижат Магомедовна",
     "specialty": "Терапевт",
-    "education": "2025 - Медицинский университет «Реавиз» - Стоматология (Базовое образование)",
+    "education": " ",
     "addresses": "пр. Стачки, 55",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1778654350/img_wbsgrr.png",
     "active": true,
