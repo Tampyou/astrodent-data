@@ -143,19 +143,6 @@
     "profile": "Неправильный прикус, \r\nГлубокий прикус, \r\nПротрузия зубов, Дистальный прикус, Мезиальный прикус"
   },
   {
-    "order": 16,
-    "name": "Магомедов Рамазан Гебекович",
-    "specialty": "Хирург и имплантолог",
-    "education": "2024 - Ростовский государственный медицинский университет - Стоматология",
-    "addresses": "пр. Стачки, 55",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777034245/img_kbcjms.png",
-    "active": true,
-    "signup_link": "#widget",
-    "details_link": "/specialists/magomedov-ramazan-gebekovich",
-    "slug": "magomedov-ramazan-gebekovich",
-    "profile": "Кариес, Пульпит зуба, \nПериодонтит, Удаление зубов, Дентальная имплантация"
-  },
-  {
     "order": 18,
     "name": "Рязанцева Дарина Викторовна",
     "specialty": "Детский стоматолог",
@@ -199,7 +186,7 @@
     "name": "Асатрян Асатур Арменович ",
     "specialty": "Терапевт",
     "education": "2022 - Ростовский государственный медицинский университет - Стоматология",
-    "addresses": "пр. Стачки, 55, \nг. Таганрог, ул. С. Лазо, 9",
+    "addresses": "ул. С. Лазо, 9",
     "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1777271638/img_wubiri.png",
     "active": true,
     "signup_link": "#widget",
