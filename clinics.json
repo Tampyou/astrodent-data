@@ -1,10 +1,10 @@
-[
+﻿[
   {
     "order": 1,
     "city": "Ростов-на-Дону",
     "name": "Стоматология на Западном",
     "address": "пр-кт. Стачки, 55",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1775129634/1e55c376-715a-4fa5-a4f6-f82aa72c7d3f.png",
+    "photo": "https://storage.yandexcloud.net/astrodent-images/%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/%D0%A1%D1%82%D0%B0%D1%87%D0%BA%D0%B8.png",
     "map_link": "https://yandex.ru/maps/-/CHHUFSys",
     "active": true
   },
@@ -13,7 +13,7 @@
     "city": "Ростов-на-Дону",
     "name": "Стоматология в центре",
     "address": "пр-кт Кировский,126",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1775112083/42c32fc3-b31d-4405-9ef2-d59707fd0ede.png",
+    "photo": "https://storage.yandexcloud.net/astrodent-images/%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/%D0%9A%D0%B8%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9.jpeg",
     "map_link": "https://yandex.ru/maps/-/CCUBQRHXkD",
     "active": true
   },
@@ -22,7 +22,7 @@
     "city": "Ростов-на-Дону",
     "name": "Стоматология на Северном",
     "address": "пр-кт Космонавтов, 14Б",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1775111869/8fd8df2e-8ff3-4b68-af30-5159b5ecad9f.png",
+    "photo": "https://storage.yandexcloud.net/astrodent-images/%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE.png",
     "map_link": "https://yandex.ru/maps/-/CCUaiOgBTC",
     "active": true
   },
@@ -31,7 +31,7 @@
     "city": "Ростов-на-Дону",
     "name": "Стоматология в Александровке",
     "address": "пр-кт 40-летия Победы, 212",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1775112535/181c4196-96f3-40bf-8b04-15cec033f72d.png",
+    "photo": "https://storage.yandexcloud.net/astrodent-images/%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/%D0%9F%D0%BE%D0%B1%D0%B5%D0%B4%D0%B0.jpeg",
     "map_link": "https://yandex.ru/maps/-/CDqL5HI~",
     "active": true
   },
@@ -40,7 +40,7 @@
     "city": "Таганрог",
     "name": "Стоматология в Таганроге",
     "address": "ул. С. Лазо, 9",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1775112964/b58c93ca-117f-4330-a22e-27b56d4ee95e.png",
+    "photo": "https://storage.yandexcloud.net/astrodent-images/%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/%D0%9B%D0%B0%D0%B7%D0%BE.png",
     "map_link": "https://yandex.ru/maps/org/astrodent/228685696743/?ll=38.882248%2C47.222305&source=wizgeo&utm_medium=maps-desktop&utm_source=serp&z=16.11",
     "active": true
   },
@@ -49,7 +49,7 @@
     "city": "Таганрог",
     "name": "Стоматология в Таганроге",
     "address": "ул. Чехова 262",
-    "photo": "https://res.cloudinary.com/dii0quhc5/image/upload/v1775112830/XXL_height_jny6yq.jpg",
+    "photo": "https://storage.yandexcloud.net/astrodent-images/%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8/%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%D0%B0.webp",
     "map_link": "https://yandex.ru/maps/-/CCUaiOgWXC",
     "active": true
   }
