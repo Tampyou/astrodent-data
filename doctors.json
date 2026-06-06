@@ -10,7 +10,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/bammatov-arsen-dzhaparovich",
     "slug": "bammatov-arsen-dzhaparovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 4,
@@ -23,7 +24,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/rogonyan-kristina",
     "slug": "rogonyan-kristina",
-    "profile": "Зубной налет, Зубной камень, Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Зубной налет, Зубной камень, Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 5,
@@ -36,7 +38,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/rokhoev-magomedapandi-khaybulaevich",
     "slug": "rokhoev-magomedapandi-khaybulaevich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 6,
@@ -49,7 +52,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/taymazov-magomedgadzhi-kazbekovich",
     "slug": "taymazov-magomedgadzhi-kazbekovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 7,
@@ -62,7 +66,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/shahnazaryan-eduard-mikhaylovich",
     "slug": "shahnazaryan-eduard-mikhaylovich",
-    "profile": "Гингивит, Кариес, Пульпит зуба, Зубной налет, Аномалия зуба"
+    "profile": "Гингивит, Кариес, Пульпит зуба, Зубной налет, Аномалия зуба",
+    "clinic": "avrora, forte"
   },
   {
     "order": 8,
@@ -75,7 +80,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/potapova-darya-yurevna",
     "slug": "potapova-darya-yurevna",
-    "profile": "Нарушение развития и прорезывания зубов, Пульпит у детей, Гиперестезия зубов, Периодонтит"
+    "profile": "Нарушение развития и прорезывания зубов, Пульпит у детей, Гиперестезия зубов, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 11,
@@ -88,7 +94,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/levashov-ernest-vladimirovich",
     "slug": "levashov-ernest-vladimirovich",
-    "profile": "Зуб ретенированный, \r\nАдентия, Аномалия зуба, Перелом зуба, \r\nВывих зуба"
+    "profile": "Зуб ретенированный, \r\nАдентия, Аномалия зуба, Перелом зуба, \r\nВывих зуба",
+    "clinic": ""
   },
   {
     "order": 12,
@@ -101,7 +108,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/starodubtsev-mikhail-andreevich",
     "slug": "starodubtsev-mikhail-andreevich",
-    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит"
+    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит",
+    "clinic": ""
   },
   {
     "order": 13,
@@ -114,7 +122,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/surmalyan-vartan-gurgenovich",
     "slug": "surmalyan-vartan-gurgenovich",
-    "profile": "Кариес, Пульпит зуба, Зубной камень, Зубной налет, Аномалия зуба"
+    "profile": "Кариес, Пульпит зуба, Зубной камень, Зубной налет, Аномалия зуба",
+    "clinic": ""
   },
   {
     "order": 14,
@@ -127,7 +136,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/sokun-ekaterina-igorevna",
     "slug": "sokun-ekaterina-igorevna",
-    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит"
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
+    "clinic": "avrora, forte"
   },
   {
     "order": 15,
@@ -140,7 +150,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/maksyukova-ekaterina-stanislavovna",
     "slug": "maksyukova-ekaterina-stanislavovna",
-    "profile": "Неправильный прикус, \r\nГлубокий прикус, \r\nПротрузия зубов, Дистальный прикус, Мезиальный прикус"
+    "profile": "Неправильный прикус, \r\nГлубокий прикус, \r\nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
+    "clinic": ""
   },
   {
     "order": 18,
@@ -153,7 +164,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/ryazantseva-darina-viktorovna",
     "slug": "ryazantseva-darina-viktorovna",
-    "profile": "\r\nКариес, Пульпит зуба, Периодонтит, Глоссалгия, Глоссит"
+    "profile": "\r\nКариес, Пульпит зуба, Периодонтит, Глоссалгия, Глоссит",
+    "clinic": ""
   },
   {
     "order": 19,
@@ -166,7 +178,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/stepanyan-syuzanna-sarkisovna",
     "slug": "stepanyan-syuzanna-sarkisovna",
-    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус"
+    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
+    "clinic": ""
   },
   {
     "order": 20,
@@ -179,7 +192,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/stepanenko-nikita-sergeevich",
     "slug": "stepanenko-nikita-sergeevich",
-    "profile": "Кариес, Пульпит зуба, \nПериодонтит, Удаление зубов, Дентальная имплантация"
+    "profile": "Кариес, Пульпит зуба, \nПериодонтит, Удаление зубов, Дентальная имплантация",
+    "clinic": ""
   },
   {
     "order": 21,
@@ -192,7 +206,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/asatryan-asatur-armenovich",
     "slug": "asatryan-asatur-armenovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 22,
@@ -205,7 +220,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/dagiev-mansur-vahidovich",
     "slug": "dagiev-mansur-vahidovich",
-    "profile": "Адентия, Стертые зубы"
+    "profile": "Адентия, Стертые зубы",
+    "clinic": ""
   },
   {
     "order": 23,
@@ -218,7 +234,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/martirosyan-kamis-ovikovich",
     "slug": "martirosyan-kamis-ovikovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": "avrora, forte"
   },
   {
     "order": 24,
@@ -231,7 +248,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/grincova-viktoriya-aleksandrovna",
     "slug": "grincova-viktoriya-aleksandrovna",
-    "profile": "Кариес, Периодонтит, Пульпит зуба"
+    "profile": "Кариес, Периодонтит, Пульпит зуба",
+    "clinic": ""
   },
   {
     "order": 25,
@@ -244,7 +262,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/detinnikova-elvira-olegovna",
     "slug": "detinnikova-elvira-olegovna",
-    "profile": "Зубной камень, Зубной налет, Все виды отбеливания зубов"
+    "profile": "Зубной камень, Зубной налет, Все виды отбеливания зубов",
+    "clinic": ""
   },
   {
     "order": 26,
@@ -257,7 +276,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/kasyanova-valeriya-igorevna",
     "slug": "kasyanova-valeriya-igorevna",
-    "profile": "Зубной камень, Зубной налет, Все виды отбеливания зубов"
+    "profile": "Зубной камень, Зубной налет, Все виды отбеливания зубов",
+    "clinic": ""
   },
   {
     "order": 27,
@@ -270,7 +290,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/krotov-kirill-olegovich",
     "slug": "krotov-kirill-olegovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 28,
@@ -283,7 +304,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/mirzoyan-albert-davidovich",
     "slug": "mirzoyan-albert-davidovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 30,
@@ -296,7 +318,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/thashugoev-azamat-muhamedovich",
     "slug": "thashugoev-azamat-muhamedovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 31,
@@ -309,7 +332,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/khasan-kinan-akhmadovich",
     "slug": "khasan-kinan-akhmadovich",
-    "profile": "Зубной камень, Зубной налет, Гиперестезия зубов"
+    "profile": "Зубной камень, Зубной налет, Гиперестезия зубов",
+    "clinic": ""
   },
   {
     "order": 32,
@@ -322,7 +346,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/shamakhaeva-saule-aslambekovna",
     "slug": "shamakhaeva-saule-aslambekovna",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 33,
@@ -335,7 +360,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/shumkova-elizaveta-aleksandrovna",
     "slug": "shumkova-elizaveta-aleksandrovna",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 34,
@@ -348,7 +374,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/bondarenko-oksana-valentinovna",
     "slug": "bondarenko-oksana-valentinovna",
-    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит"
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
+    "clinic": ""
   },
   {
     "order": 36,
@@ -361,7 +388,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/chubinidze-nestor-badrievich",
     "slug": "chubinidze-nestor-badrievich",
-    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус"
+    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
+    "clinic": ""
   },
   {
     "order": 37,
@@ -374,7 +402,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/simonyan-milena-arturovna",
     "slug": "simonyan-milena-arturovna",
-    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус"
+    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
+    "clinic": ""
   },
   {
     "order": 38,
@@ -387,7 +416,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/skrylnikov-vadim-olegovich",
     "slug": "skrylnikov-vadim-olegovich",
-    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит"
+    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит",
+    "clinic": ""
   },
   {
     "order": 39,
@@ -400,7 +430,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/katsanov-artem-batrazovich",
     "slug": "katsanov-artem-batrazovich",
-    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит"
+    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит",
+    "clinic": ""
   },
   {
     "order": 40,
@@ -413,7 +444,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/nefedova-evgeniya-sergeevna",
     "slug": "nefedova-evgeniya-sergeevna",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 41,
@@ -426,7 +458,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/sytnik-aleksey-andreevich",
     "slug": "sytnik-aleksey-andreevich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 42,
@@ -439,7 +472,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/volovik-vyacheslav-georgievich",
     "slug": "volovik-vyacheslav-georgievich",
-    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит"
+    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит",
+    "clinic": ""
   },
   {
     "order": 43,
@@ -452,7 +486,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/shakhmuradov-khizri-badrutinovich",
     "slug": "shakhmuradov-khizri-badrutinovich",
-    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит"
+    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит",
+    "clinic": ""
   },
   {
     "order": 44,
@@ -465,7 +500,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/gorbatko-viktoriya-valerevna",
     "slug": "gorbatko-viktoriya-valerevna",
-    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит"
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
+    "clinic": ""
   },
   {
     "order": 45,
@@ -478,7 +514,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/smirnov-vladimir-alekseevich",
     "slug": "smirnov-vladimir-alekseevich",
-    "profile": "Зубной камень, Зубной налет, Гиперестезия зубов"
+    "profile": "Зубной камень, Зубной налет, Гиперестезия зубов",
+    "clinic": ""
   },
   {
     "order": 46,
@@ -491,7 +528,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/chhikvadze-viktor-vakhtangovich",
     "slug": "chhikvadze-viktor-vakhtangovich",
-    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус"
+    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
+    "clinic": ""
   },
   {
     "order": 48,
@@ -504,7 +542,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/sanamyan-milena-alekseevna",
     "slug": "sanamyan-milena-alekseevna",
-    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит"
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
+    "clinic": ""
   },
   {
     "order": 49,
@@ -517,7 +556,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/lepsaya-mariam-gerontievna",
     "slug": "lepsaya-mariam-gerontievna",
-    "profile": "Зубной камень, Зубной налет, Гиперестезия зубов"
+    "profile": "Зубной камень, Зубной налет, Гиперестезия зубов",
+    "clinic": ""
   },
   {
     "order": 50,
@@ -530,7 +570,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/darenskikh-yuliya-leonidovna",
     "slug": "darenskikh-yuliya-leonidovna",
-    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус"
+    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
+    "clinic": ""
   },
   {
     "order": 51,
@@ -543,7 +584,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/azamatov-murat-albertovich",
     "slug": "azamatov-murat-albertovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 52,
@@ -556,7 +598,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/zhilova-liliya-yurevna",
     "slug": "zhilova-liliya-yurevna",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 53,
@@ -569,7 +612,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/martirosyan-mkrtich-masisovich",
     "slug": "martirosyan-mkrtich-masisovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 54,
@@ -582,7 +626,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/oganesyan-liana-karenovna",
     "slug": "oganesyan-liana-karenovna",
-    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус"
+    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
+    "clinic": ""
   },
   {
     "order": 55,
@@ -595,7 +640,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/polozov-leonid-dmitrievich",
     "slug": "polozov-leonid-dmitrievich",
-    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит"
+    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит",
+    "clinic": ""
   },
   {
     "order": 56,
@@ -608,7 +654,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/kovaleva-anastasiya-vitalevna",
     "slug": "kovaleva-anastasiya-vitalevna",
-    "profile": "Зубной камень, Зубной налет, Гиперестезия зубов"
+    "profile": "Зубной камень, Зубной налет, Гиперестезия зубов",
+    "clinic": ""
   },
   {
     "order": 57,
@@ -621,7 +668,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/chekkueva-alina-soslanovna",
     "slug": "chekkueva-alina-soslanovna",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 58,
@@ -634,7 +682,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/posukhov-ruslan-sergeevich",
     "slug": "posukhov-ruslan-sergeevich",
-    "profile": "Зубной налет, Зубной камень, Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Зубной налет, Зубной камень, Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 59,
@@ -647,7 +696,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/lyakhovets-vladimir-andreevich",
     "slug": "lyakhovets-vladimir-andreevich",
-    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит"
+    "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит",
+    "clinic": ""
   },
   {
     "order": 60,
@@ -660,7 +710,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/popova-ekaterina-dmitrievna",
     "slug": "popova-ekaterina-dmitrievna",
-    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус"
+    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
+    "clinic": "avrora, forte"
   },
   {
     "order": 61,
@@ -673,7 +724,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/abdullaev-salim-gasanovich",
     "slug": "abdullaev-salim-gasanovich",
-    "profile": "Зубной налет, Зубной камень, Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Зубной налет, Зубной камень, Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 62,
@@ -686,7 +738,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/zakaryan-anna-igorevna",
     "slug": "zakaryan-anna-igorevna",
-    "profile": "Зубной налет, Зубной камень, Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Зубной налет, Зубной камень, Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 64,
@@ -699,7 +752,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/sorgina-kseniya-vladimirovna",
     "slug": "sorgina-kseniya-vladimirovna",
-    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит"
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
+    "clinic": "avrora, forte"
   },
   {
     "order": 65,
@@ -712,7 +766,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/tarasova-yaroslava-igorevna",
     "slug": "tarasova-yaroslava-igorevna",
-    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит"
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
+    "clinic": ""
   },
   {
     "order": 66,
@@ -725,7 +780,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/dobroselskiy-mikhail-vladimirovich",
     "slug": "dobroselskiy-mikhail-vladimirovich",
-    "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Купирование боли"
+    "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Купирование боли",
+    "clinic": ""
   },
   {
     "order": 67,
@@ -738,7 +794,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/tuynova-alina-vadimovna",
     "slug": "tuynova-alina-vadimovna",
-    "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия"
+    "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия",
+    "clinic": ""
   },
   {
     "order": 68,
@@ -751,7 +808,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/poryvaev-vladislav-stanislavovich",
     "slug": "poryvaev-vladislav-stanislavovich",
-    "profile": "Диастема, Стертые зубы, Адентия, Аномалия зуба, Аномалии зубов"
+    "profile": "Диастема, Стертые зубы, Адентия, Аномалия зуба, Аномалии зубов",
+    "clinic": ""
   },
   {
     "order": 69,
@@ -764,7 +822,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/bagramyan-olya-arurovna",
     "slug": "bagramyan-olya-arurovna",
-    "profile": "Кариес, Периодонтит, Пульпит зуба, Пародонтит, \nКлиновидный дефект"
+    "profile": "Кариес, Периодонтит, Пульпит зуба, Пародонтит, \nКлиновидный дефект",
+    "clinic": ""
   },
   {
     "order": 70,
@@ -777,7 +836,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/kakoylo-artem-nikolaevich",
     "slug": "kakoylo-artem-nikolaevich",
-    "profile": "Кариес, Пульпит зуба, Зубной камень, Периодонтит, Зубной налет"
+    "profile": "Кариес, Пульпит зуба, Зубной камень, Периодонтит, Зубной налет",
+    "clinic": "avrora"
   },
   {
     "order": 71,
@@ -790,7 +850,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/ozova-asiyat-zarifovna",
     "slug": "ozova-asiyat-zarifovna",
-    "profile": "Гиперестезия зубов, Зубной камень, Аномалия зуба, Гингивит, Флюороз зубов"
+    "profile": "Гиперестезия зубов, Зубной камень, Аномалия зуба, Гингивит, Флюороз зубов",
+    "clinic": "avrora"
   },
   {
     "order": 72,
@@ -803,7 +864,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/piruzyan-ovik-armenovich",
     "slug": "piruzyan-ovik-armenovich",
-    "profile": "Ретинированный зуб, Перелом зуба, Вывих зуба"
+    "profile": "Ретинированный зуб, Перелом зуба, Вывих зуба",
+    "clinic": "avrora"
   },
   {
     "order": 73,
@@ -816,7 +878,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/pibirey-polina-vladimirovna",
     "slug": "pibirey-polina-vladimirovna",
-    "profile": "Кариес, Зубной налет, Зубной камень, Гиперестезия зубов, Пульпит зуба"
+    "profile": "Кариес, Зубной налет, Зубной камень, Гиперестезия зубов, Пульпит зуба",
+    "clinic": "avrora"
   },
   {
     "order": 74,
@@ -829,7 +892,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/skorobogatov-aleksey-viktorovich",
     "slug": "skorobogatov-aleksey-viktorovich",
-    "profile": "Стертые зубы, Адентия"
+    "profile": "Стертые зубы, Адентия",
+    "clinic": "avrora"
   },
   {
     "order": 75,
@@ -842,7 +906,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/khachbulagyan-yuriy-arturovich",
     "slug": "khachbulagyan-yuriy-arturovich",
-    "profile": "Адентия, Стертые зубы"
+    "profile": "Адентия, Стертые зубы",
+    "clinic": "avrora"
   },
   {
     "order": 76,
@@ -855,7 +920,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/papyan-alina-bagdasarovna",
     "slug": "papyan-alina-bagdasarovna",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": "avrora"
   },
   {
     "order": 77,
@@ -868,7 +934,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/bogatova-anna-vladimirovna",
     "slug": "bogatova-anna-vladimirovna",
-    "profile": "Кариес, Гингивит, Зубной налет, Зубной камень, Периодонтит"
+    "profile": "Кариес, Гингивит, Зубной налет, Зубной камень, Периодонтит",
+    "clinic": "avrora"
   },
   {
     "order": 78,
@@ -881,7 +948,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/pashaliev-murat-ilyasovich",
     "slug": "pashaliev-murat-ilyasovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": "avrora"
   },
   {
     "order": 79,
@@ -894,7 +962,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/guzairova-darya-fanisovna",
     "slug": "guzairova-darya-fanisovna",
-    "profile": "Неправильный прикус, Глубокий прикус, Мезиальный прикус, Дистальный прикус, Открытый прикус"
+    "profile": "Неправильный прикус, Глубокий прикус, Мезиальный прикус, Дистальный прикус, Открытый прикус",
+    "clinic": "avrora"
   },
   {
     "order": 80,
@@ -907,7 +976,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/arutyunyan-zhasmin-armenovna",
     "slug": "arutyunyan-zhasmin-armenovna",
-    "profile": "Зубной налет, Зубной камень"
+    "profile": "Зубной налет, Зубной камень",
+    "clinic": ""
   },
   {
     "order": 82,
@@ -920,7 +990,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/zmienko-vyacheslav-aleksandrovich",
     "slug": "zmienko-vyacheslav-aleksandrovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 83,
@@ -933,7 +1004,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/rakhmatov-mukhamadzhon-ravshanjonovich",
     "slug": "rakhmatov-mukhamadzhon-ravshanjonovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 84,
@@ -946,7 +1018,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/tamrazova-syuzanna-vardanovna",
     "slug": "tamrazova-syuzanna-vardanovna",
-    "profile": "Кариес, Пульпит зуба, Перикоронит"
+    "profile": "Кариес, Пульпит зуба, Перикоронит",
+    "clinic": ""
   },
   {
     "order": 85,
@@ -959,7 +1032,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/shikhmagomedov-farid-magomedovich",
     "slug": "shikhmagomedov-farid-magomedovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 86,
@@ -972,7 +1046,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/akopyan-bella-shotaevna",
     "slug": "akopyan-bella-shotaevna",
-    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит"
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
+    "clinic": ""
   },
   {
     "order": 87,
@@ -985,7 +1060,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/kayalova-evgeniya-viktorovna",
     "slug": "kayalova-evgeniya-viktorovna",
-    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит"
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
+    "clinic": ""
   },
   {
     "order": 88,
@@ -998,7 +1074,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/talalaeva-sofya-aleksandrovna",
     "slug": "talalaeva-sofya-aleksandrovna",
-    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Нарушение развития и прорезывания зубов"
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Нарушение развития и прорезывания зубов",
+    "clinic": ""
   },
   {
     "order": 89,
@@ -1011,7 +1088,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/baroyan-oleg-olegovich",
     "slug": "baroyan-oleg-olegovich",
-    "profile": "Неправильный прикус, Дистальный прикус, Мезиальный прикус, Глубокий прикус, Перекрёстный прикус"
+    "profile": "Неправильный прикус, Дистальный прикус, Мезиальный прикус, Глубокий прикус, Перекрёстный прикус",
+    "clinic": ""
   },
   {
     "order": 90,
@@ -1024,7 +1102,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/shtanke-nataliya-vadimovna",
     "slug": "shtanke-nataliya-vadimovna",
-    "profile": "Аномалия зуба, Неправильный прикус, Мезиальный прикус, Дистальный прикус, Глубокий прикус"
+    "profile": "Аномалия зуба, Неправильный прикус, Мезиальный прикус, Дистальный прикус, Глубокий прикус",
+    "clinic": ""
   },
   {
     "order": 91,
@@ -1037,7 +1116,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/nigmatullina-yuliya-eduardovna",
     "slug": "nigmatullina-yuliya-eduardovna",
-    "profile": "Неправильный прикус, Дистальный прикус, Перекрёстный прикус, Диастема, Мезиальный прикус"
+    "profile": "Неправильный прикус, Дистальный прикус, Перекрёстный прикус, Диастема, Мезиальный прикус",
+    "clinic": ""
   },
   {
     "order": 92,
@@ -1050,7 +1130,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/bedzhanyan-ovik-valerevich",
     "slug": "bedzhanyan-ovik-valerevich",
-    "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия"
+    "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия",
+    "clinic": ""
   },
   {
     "order": 93,
@@ -1063,7 +1144,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/bezhko-dmitriy-sergeevich",
     "slug": "bezhko-dmitriy-sergeevich",
-    "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия"
+    "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия",
+    "clinic": ""
   },
   {
     "order": 94,
@@ -1076,7 +1158,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/kecherukova-alana-shamilevna",
     "slug": "kecherukova-alana-shamilevna",
-    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Глоссит, Нарушение развития и прорезывания зубов"
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Глоссит, Нарушение развития и прорезывания зубов",
+    "clinic": ""
   },
   {
     "order": 95,
@@ -1089,7 +1172,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/malygin-vladimir-nikolaevich",
     "slug": "malygin-vladimir-nikolaevich",
-    "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия"
+    "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия",
+    "clinic": ""
   },
   {
     "order": 96,
@@ -1102,7 +1186,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/dadaev-magomed-omarovich",
     "slug": "dadaev-magomed-omarovich",
-    "profile": "Ретинированный зуб, Дистопия зуба, Вывих зуба, Перелом зуба, Аномалия зуба"
+    "profile": "Ретинированный зуб, Дистопия зуба, Вывих зуба, Перелом зуба, Аномалия зуба",
+    "clinic": ""
   },
   {
     "order": 97,
@@ -1115,7 +1200,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/usachev-andrey-ruslanovich",
     "slug": "usachev-andrey-ruslanovich",
-    "profile": "Ретинированный зуб, Вывих зуба, Перелом зуба, Аномалия зуба"
+    "profile": "Ретинированный зуб, Вывих зуба, Перелом зуба, Аномалия зуба",
+    "clinic": ""
   },
   {
     "order": 98,
@@ -1128,7 +1214,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/andriyanov-maksim-sergeevich",
     "slug": "andriyanov-maksim-sergeevich",
-    "profile": "Адентия, Зуб ретенированный, Периодонтит, Периостит"
+    "profile": "Адентия, Зуб ретенированный, Периодонтит, Периостит",
+    "clinic": ""
   },
   {
     "order": 99,
@@ -1141,7 +1228,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/boychevskaya-oksana-alekseevna",
     "slug": "boychevskaya-oksana-alekseevna",
-    "profile": "Адентия, Диастема, Пигментация зубов, Аномалия зуба, Перелом зуба"
+    "profile": "Адентия, Диастема, Пигментация зубов, Аномалия зуба, Перелом зуба",
+    "clinic": ""
   },
   {
     "order": 100,
@@ -1154,7 +1242,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/gruzdev-nikita-romanovich",
     "slug": "gruzdev-nikita-romanovich",
-    "profile": "Стертые зубы, Адентия"
+    "profile": "Стертые зубы, Адентия",
+    "clinic": ""
   },
   {
     "order": 101,
@@ -1167,7 +1256,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/minchenko-valeriy-igorevich",
     "slug": "minchenko-valeriy-igorevich",
-    "profile": "Адентия, Диастема, Дистопия зуба, Перелом зуба, Вывих зуба"
+    "profile": "Адентия, Диастема, Дистопия зуба, Перелом зуба, Вывих зуба",
+    "clinic": ""
   },
   {
     "order": 102,
@@ -1180,7 +1270,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/parisov-faris-abdulnasirovich",
     "slug": "parisov-faris-abdulnasirovich",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 103,
@@ -1193,7 +1284,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/limonova-viktoriya-igorevna",
     "slug": "limonova-viktoriya-igorevna",
-    "profile": "Кариес, Пульпит зуба, Периодонтит"
+    "profile": "Кариес, Пульпит зуба, Периодонтит",
+    "clinic": ""
   },
   {
     "order": 104,
@@ -1206,7 +1298,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/bayramkulov-ismail-alisultanovich",
     "slug": "bayramkulov-ismail-alisultanovich",
-    "profile": "Гингивит, Пульпит зуба, Периодонтит, Пародонтит, Кариес"
+    "profile": "Гингивит, Пульпит зуба, Периодонтит, Пародонтит, Кариес",
+    "clinic": ""
   },
   {
     "order": 105,
@@ -1219,7 +1312,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/zabora-anastasiya-alekseevna",
     "slug": "zabora-anastasiya-alekseevna",
-    "profile": "Гингивит, Пульпит зуба, Периодонтит, Пародонтит, Кариес"
+    "profile": "Гингивит, Пульпит зуба, Периодонтит, Пародонтит, Кариес",
+    "clinic": ""
   },
   {
     "order": 106,
@@ -1232,7 +1326,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/platov-islam-nukhtarovich",
     "slug": "platov-islam-nukhtarovich",
-    "profile": "Гингивит, Пульпит зуба, Периодонтит, Пародонтит, Кариес"
+    "profile": "Гингивит, Пульпит зуба, Периодонтит, Пародонтит, Кариес",
+    "clinic": ""
   },
   {
     "order": 107,
@@ -1245,7 +1340,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/kolechko-zakhar-andreevich",
     "slug": "kolechko-zakhar-andreevich",
-    "profile": "Ретинированный зуб, Вывих зуба, Перелом зуба, Аномалия зуба"
+    "profile": "Ретинированный зуб, Вывих зуба, Перелом зуба, Аномалия зуба",
+    "clinic": ""
   },
   {
     "order": 108,
@@ -1258,7 +1354,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/shchevichkin-marat-eduardovich",
     "slug": "shchevichkin-marat-eduardovich",
-    "profile": "Адентия, Перелом зуба, Стертые зубы, Аномалия зуба, Повышенная стираемость зубов"
+    "profile": "Адентия, Перелом зуба, Стертые зубы, Аномалия зуба, Повышенная стираемость зубов",
+    "clinic": ""
   },
   {
     "order": 109,
@@ -1271,7 +1368,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/oganesyan-ayrik-arturovich",
     "slug": "oganesyan-ayrik-arturovich",
-    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
+    "clinic": ""
   },
   {
     "order": 111,
@@ -1284,7 +1382,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/abdulaeva-hadizhat-magomedovna",
     "slug": "abdulaeva-hadizhat-magomedovna",
-    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
+    "clinic": ""
   },
   {
     "order": 112,
@@ -1297,7 +1396,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/gadzhieva-aina-magomedovna",
     "slug": "gadzhieva-aina-magomedovna",
-    "profile": "Неправильный прикус, Дистальный прикус, Перекрёстный прикус, Диастема, Мезиальный прикус"
+    "profile": "Неправильный прикус, Дистальный прикус, Перекрёстный прикус, Диастема, Мезиальный прикус",
+    "clinic": ""
   },
   {
     "order": 113,
@@ -1310,7 +1410,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/manych-yuliya-andreevna",
     "slug": "manych-yuliya-andreevna",
-    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Глоссит, Нарушение развития и прорезывания зубов"
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Глоссит, Нарушение развития и прорезывания зубов",
+    "clinic": ""
   },
   {
     "order": 114,
@@ -1323,7 +1424,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/kindyushova-irina-viktorovna",
     "slug": "kindyushova-irina-viktorovna",
-    "profile": "Кариес, Зубной налет, Зубной камень, Гиперестезия зубов, Пульпит зуба"
+    "profile": "Кариес, Зубной налет, Зубной камень, Гиперестезия зубов, Пульпит зуба",
+    "clinic": ""
   },
   {
     "order": 115,
@@ -1336,7 +1438,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/ostapova-elena-egorovna",
     "slug": "ostapova-elena-egorovna",
-    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
+    "clinic": ""
   },
   {
     "order": 116,
@@ -1349,7 +1452,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/russu-viktoriya-igorevna",
     "slug": "russu-viktoriya-igorevna",
-    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
+    "clinic": ""
   },
   {
     "order": 117,
@@ -1362,7 +1466,8 @@
     "signup_link": "#widget",
     "details_link": "/specialists/maksyutenko-andrey-sergeevich",
     "slug": "maksyutenko-andrey-sergeevich",
-    "profile": "Адентия, Перелом зуба, Стертые зубы, Аномалия зуба, Повышенная стираемость зубов"
+    "profile": "Адентия, Перелом зуба, Стертые зубы, Аномалия зуба, Повышенная стираемость зубов",
+    "clinic": ""
   },
   {
     "order": 118,
@@ -1375,6 +1480,7 @@
     "signup_link": "#widget",
     "details_link": "/specialists/cholokava-elena-vladimirovna",
     "slug": "cholokava-elena-vladimirovna",
-    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит"
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
+    "clinic": ""
   }
 ]
