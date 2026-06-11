@@ -560,20 +560,6 @@
     "clinic": "forte"
   },
   {
-    "order": 50,
-    "name": "Даренских Юлия Леонидовна",
-    "specialty": "Ортодонт",
-    "education": "2019 - Волгоградский государственный медицинский университет - Ортодонтия (Ординатура)",
-    "addresses": "пр. Кировский, 126,\nг. Таганрог, ул. С. Лазо, 9",
-    "photo": "https://storage.yandexcloud.net/astrodent-images/%D0%92%D1%80%D0%B0%D1%87%D0%B8/%D0%94%D0%B0%D1%80%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D1%85%20%D0%AE%D0%BB%D0%B8%D1%8F%20%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%BD%D0%B0.png",
-    "active": true,
-    "signup_link": "#widget",
-    "details_link": "/specialists/darenskikh-yuliya-leonidovna",
-    "slug": "darenskikh-yuliya-leonidovna",
-    "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
-    "clinic": "forte"
-  },
-  {
     "order": 51,
     "name": "Азаматов Мурат Альбертович ",
     "specialty": "Терапевт",
