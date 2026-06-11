@@ -1482,5 +1482,19 @@
     "slug": "cholokava-elena-vladimirovna",
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
     "clinic": "avrora"
+  },
+  {
+    "order": 119,
+    "name": "Бактыбеков Бекзат Бактыбекович",
+    "specialty": "Ортодонт",
+    "education": "2020 - Ставропольский государственный медицинский университет",
+    "addresses": "пр. Космонавтов, 14 Б",
+    "photo": "https://storage.yandexcloud.net/astrodent-images/%D0%92%D1%80%D0%B0%D1%87%D0%B8/%D0%91%D0%B0%D0%BA%D1%82%D1%8B%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2%20%D0%91%D0%B5%D0%BA%D0%B7%D0%B0%D1%82%20%D0%91%D0%B0%D0%BA%D1%82%D1%8B%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2%D0%B8%D1%87.webp",
+    "active": true,
+    "signup_link": "#widget",
+    "details_link": "/specialists/baktibekov-bekzat",
+    "slug": "/baktibekov-bekzat",
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
+    "clinic": "avrora"
   }
 ]
