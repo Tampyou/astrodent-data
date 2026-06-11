@@ -528,5 +528,15 @@
     "order": 8,
     "active": true,
     "signup_link": "#widget"
+  },
+  {
+    "category": "Хирургия, имплантация",
+    "service": "Операция по установке импланта Medentika",
+    "description": "",
+    "price": 26000,
+    "old_price": 28600,
+    "order": 9,
+    "active": true,
+    "signup_link": "#widget"
   }
 ]
