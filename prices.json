@@ -538,5 +538,35 @@
     "order": 9,
     "active": true,
     "signup_link": "#widget"
+  },
+  {
+    "category": "Всё на 4/6",
+    "service": "Зубы за 1 день Medentika по протоколу \"Все-на-4\"",
+    "description": "",
+    "price": 157500,
+    "old_price": 175000,
+    "order": 3,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Всё на 4/6",
+    "service": "Зубы за 1 день Medentika по протоколу \"Все-на-6\"",
+    "description": "",
+    "price": 229500,
+    "old_price": 255000,
+    "order": 4,
+    "active": true,
+    "signup_link": "#widget"
+  },
+  {
+    "category": "Брекеты, элайнеры и пластинки",
+    "service": "Установка брекет-системы Протект на 1 челюсть",
+    "description": "",
+    "price": 60000,
+    "old_price": 66700,
+    "order": 12,
+    "active": true,
+    "signup_link": "#widget"
   }
 ]
