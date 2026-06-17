@@ -807,7 +807,7 @@
     "slug": "tarasova-yaroslava-igorevna",
     "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "lazo"
   },
   {
     "order": 66,
@@ -822,7 +822,7 @@
     "slug": "dobroselskiy-mikhail-vladimirovich",
     "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Купирование боли",
     "clinic": "forte",
-    "branch": ""
+    "branch": "lazo"
   },
   {
     "order": 67,
@@ -837,7 +837,7 @@
     "slug": "tuynova-alina-vadimovna",
     "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия",
     "clinic": "forte",
-    "branch": ""
+    "branch": "lazo"
   },
   {
     "order": 68,
@@ -852,7 +852,7 @@
     "slug": "poryvaev-vladislav-stanislavovich",
     "profile": "Диастема, Стертые зубы, Адентия, Аномалия зуба, Аномалии зубов",
     "clinic": "forte",
-    "branch": ""
+    "branch": "lazo"
   },
   {
     "order": 69,
@@ -867,7 +867,7 @@
     "slug": "bagramyan-olya-arurovna",
     "profile": "Кариес, Периодонтит, Пульпит зуба, Пародонтит, \nКлиновидный дефект",
     "clinic": "forte",
-    "branch": ""
+    "branch": "lazo"
   },
   {
     "order": 70,
@@ -882,7 +882,7 @@
     "slug": "kakoylo-artem-nikolaevich",
     "profile": "Кариес, Пульпит зуба, Зубной камень, Периодонтит, Зубной налет",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "pobedy"
   },
   {
     "order": 71,
@@ -897,7 +897,7 @@
     "slug": "ozova-asiyat-zarifovna",
     "profile": "Гиперестезия зубов, Зубной камень, Аномалия зуба, Гингивит, Флюороз зубов",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "pobedy"
   },
   {
     "order": 72,
@@ -912,7 +912,7 @@
     "slug": "piruzyan-ovik-armenovich",
     "profile": "Ретинированный зуб, Перелом зуба, Вывих зуба",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "pobedy"
   },
   {
     "order": 73,
@@ -927,7 +927,7 @@
     "slug": "pibirey-polina-vladimirovna",
     "profile": "Кариес, Зубной налет, Зубной камень, Гиперестезия зубов, Пульпит зуба",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "pobedy"
   },
   {
     "order": 74,
@@ -942,7 +942,7 @@
     "slug": "skorobogatov-aleksey-viktorovich",
     "profile": "Стертые зубы, Адентия",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "pobedy"
   },
   {
     "order": 75,
@@ -957,7 +957,7 @@
     "slug": "khachbulagyan-yuriy-arturovich",
     "profile": "Адентия, Стертые зубы",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "pobedy"
   },
   {
     "order": 76,
@@ -972,7 +972,7 @@
     "slug": "papyan-alina-bagdasarovna",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "pobedy"
   },
   {
     "order": 77,
@@ -987,7 +987,7 @@
     "slug": "bogatova-anna-vladimirovna",
     "profile": "Кариес, Гингивит, Зубной налет, Зубной камень, Периодонтит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "pobedy"
   },
   {
     "order": 78,
@@ -1002,7 +1002,7 @@
     "slug": "pashaliev-murat-ilyasovich",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "pobedy"
   },
   {
     "order": 79,
@@ -1017,7 +1017,7 @@
     "slug": "guzairova-darya-fanisovna",
     "profile": "Неправильный прикус, Глубокий прикус, Мезиальный прикус, Дистальный прикус, Открытый прикус",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "pobedy"
   },
   {
     "order": 80,
@@ -1032,7 +1032,7 @@
     "slug": "arutyunyan-zhasmin-armenovna",
     "profile": "Зубной налет, Зубной камень",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 82,
@@ -1047,7 +1047,7 @@
     "slug": "zmienko-vyacheslav-aleksandrovich",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 83,
@@ -1062,7 +1062,7 @@
     "slug": "rakhmatov-mukhamadzhon-ravshanjonovich",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 84,
@@ -1077,7 +1077,7 @@
     "slug": "tamrazova-syuzanna-vardanovna",
     "profile": "Кариес, Пульпит зуба, Перикоронит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 85,
@@ -1092,7 +1092,7 @@
     "slug": "shikhmagomedov-farid-magomedovich",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 86,
@@ -1107,7 +1107,7 @@
     "slug": "akopyan-bella-shotaevna",
     "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 87,
@@ -1122,7 +1122,7 @@
     "slug": "kayalova-evgeniya-viktorovna",
     "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 88,
@@ -1137,7 +1137,7 @@
     "slug": "talalaeva-sofya-aleksandrovna",
     "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Нарушение развития и прорезывания зубов",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 89,
@@ -1152,7 +1152,7 @@
     "slug": "baroyan-oleg-olegovich",
     "profile": "Неправильный прикус, Дистальный прикус, Мезиальный прикус, Глубокий прикус, Перекрёстный прикус",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 90,
@@ -1167,7 +1167,7 @@
     "slug": "shtanke-nataliya-vadimovna",
     "profile": "Аномалия зуба, Неправильный прикус, Мезиальный прикус, Дистальный прикус, Глубокий прикус",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 91,
@@ -1182,7 +1182,7 @@
     "slug": "nigmatullina-yuliya-eduardovna",
     "profile": "Неправильный прикус, Дистальный прикус, Перекрёстный прикус, Диастема, Мезиальный прикус",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 92,
@@ -1197,7 +1197,7 @@
     "slug": "bedzhanyan-ovik-valerevich",
     "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 93,
@@ -1212,7 +1212,7 @@
     "slug": "bezhko-dmitriy-sergeevich",
     "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 94,
@@ -1227,7 +1227,7 @@
     "slug": "kecherukova-alana-shamilevna",
     "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Глоссит, Нарушение развития и прорезывания зубов",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 95,
@@ -1242,7 +1242,7 @@
     "slug": "malygin-vladimir-nikolaevich",
     "profile": "Седация, Местная анестезия, Мониторинг пациента, Послеоперационное наблюдение, Фобия",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 96,
@@ -1257,7 +1257,7 @@
     "slug": "dadaev-magomed-omarovich",
     "profile": "Ретинированный зуб, Дистопия зуба, Вывих зуба, Перелом зуба, Аномалия зуба",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 97,
@@ -1272,7 +1272,7 @@
     "slug": "usachev-andrey-ruslanovich",
     "profile": "Ретинированный зуб, Вывих зуба, Перелом зуба, Аномалия зуба",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 98,
@@ -1287,7 +1287,7 @@
     "slug": "andriyanov-maksim-sergeevich",
     "profile": "Адентия, Зуб ретенированный, Периодонтит, Периостит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 99,
@@ -1302,7 +1302,7 @@
     "slug": "boychevskaya-oksana-alekseevna",
     "profile": "Адентия, Диастема, Пигментация зубов, Аномалия зуба, Перелом зуба",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 100,
@@ -1317,7 +1317,7 @@
     "slug": "gruzdev-nikita-romanovich",
     "profile": "Стертые зубы, Адентия",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 101,
@@ -1332,7 +1332,7 @@
     "slug": "minchenko-valeriy-igorevich",
     "profile": "Адентия, Диастема, Дистопия зуба, Перелом зуба, Вывих зуба",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 102,
@@ -1347,7 +1347,7 @@
     "slug": "parisov-faris-abdulnasirovich",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 103,
@@ -1362,7 +1362,7 @@
     "slug": "limonova-viktoriya-igorevna",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 104,
@@ -1377,7 +1377,7 @@
     "slug": "bayramkulov-ismail-alisultanovich",
     "profile": "Гингивит, Пульпит зуба, Периодонтит, Пародонтит, Кариес",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 105,
@@ -1392,7 +1392,7 @@
     "slug": "zabora-anastasiya-alekseevna",
     "profile": "Гингивит, Пульпит зуба, Периодонтит, Пародонтит, Кариес",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 106,
@@ -1407,7 +1407,7 @@
     "slug": "platov-islam-nukhtarovich",
     "profile": "Гингивит, Пульпит зуба, Периодонтит, Пародонтит, Кариес",
     "clinic": "forte",
-    "branch": ""
+    "branch": "chehova"
   },
   {
     "order": 107,
@@ -1422,7 +1422,7 @@
     "slug": "kolechko-zakhar-andreevich",
     "profile": "Ретинированный зуб, Вывих зуба, Перелом зуба, Аномалия зуба",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "pobedy"
   },
   {
     "order": 108,
@@ -1437,7 +1437,7 @@
     "slug": "shchevichkin-marat-eduardovich",
     "profile": "Адентия, Перелом зуба, Стертые зубы, Аномалия зуба, Повышенная стираемость зубов",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "pobedy"
   },
   {
     "order": 109,
@@ -1452,7 +1452,7 @@
     "slug": "oganesyan-ayrik-arturovich",
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "pobedy"
   },
   {
     "order": 111,
@@ -1467,7 +1467,7 @@
     "slug": "abdulaeva-hadizhat-magomedovna",
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "stachki"
   },
   {
     "order": 112,
@@ -1482,7 +1482,7 @@
     "slug": "gadzhieva-aina-magomedovna",
     "profile": "Неправильный прикус, Дистальный прикус, Перекрёстный прикус, Диастема, Мезиальный прикус",
     "clinic": "forte",
-    "branch": ""
+    "branch": "stachki"
   },
   {
     "order": 113,
@@ -1497,7 +1497,7 @@
     "slug": "manych-yuliya-andreevna",
     "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Глоссит, Нарушение развития и прорезывания зубов",
     "clinic": "forte",
-    "branch": ""
+    "branch": "stachki"
   },
   {
     "order": 114,
@@ -1512,7 +1512,7 @@
     "slug": "kindyushova-irina-viktorovna",
     "profile": "Кариес, Зубной налет, Зубной камень, Гиперестезия зубов, Пульпит зуба",
     "clinic": "forte",
-    "branch": ""
+    "branch": "lazo"
   },
   {
     "order": 115,
@@ -1527,7 +1527,7 @@
     "slug": "ostapova-elena-egorovna",
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 116,
@@ -1542,7 +1542,7 @@
     "slug": "russu-viktoriya-igorevna",
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "stachki"
   },
   {
     "order": 117,
@@ -1557,7 +1557,7 @@
     "slug": "maksyutenko-andrey-sergeevich",
     "profile": "Адентия, Перелом зуба, Стертые зубы, Аномалия зуба, Повышенная стираемость зубов",
     "clinic": "forte",
-    "branch": ""
+    "branch": "stachki"
   },
   {
     "order": 118,
@@ -1572,7 +1572,7 @@
     "slug": "cholokava-elena-vladimirovna",
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   },
   {
     "order": 119,
@@ -1587,6 +1587,6 @@
     "slug": "baktibekov-bekzat",
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
     "clinic": "avrora",
-    "branch": ""
+    "branch": "kosmonavtov"
   }
 ]
