@@ -132,7 +132,7 @@
     "slug": "surmalyan-vartan-gurgenovich",
     "profile": "Кариес, Пульпит зуба, Зубной камень, Зубной налет, Аномалия зуба",
     "clinic": "forte",
-    "branch": ""
+    "branch": "stachki"
   },
   {
     "order": 14,
@@ -147,7 +147,7 @@
     "slug": "sokun-ekaterina-igorevna",
     "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
     "clinic": "avrora, forte",
-    "branch": ""
+    "branch": "stachki, chehova, pobedy"
   },
   {
     "order": 15,
@@ -162,7 +162,7 @@
     "slug": "maksyukova-ekaterina-stanislavovna",
     "profile": "Неправильный прикус, \r\nГлубокий прикус, \r\nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
     "clinic": "forte",
-    "branch": ""
+    "branch": "stachki"
   },
   {
     "order": 18,
@@ -177,7 +177,7 @@
     "slug": "ryazantseva-darina-viktorovna",
     "profile": "\r\nКариес, Пульпит зуба, Периодонтит, Глоссалгия, Глоссит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "stachki"
   },
   {
     "order": 19,
@@ -192,7 +192,7 @@
     "slug": "stepanyan-syuzanna-sarkisovna",
     "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
     "clinic": "forte",
-    "branch": ""
+    "branch": "stachki"
   },
   {
     "order": 20,
@@ -207,7 +207,7 @@
     "slug": "stepanenko-nikita-sergeevich",
     "profile": "Кариес, Пульпит зуба, \nПериодонтит, Удаление зубов, Дентальная имплантация",
     "clinic": "forte",
-    "branch": ""
+    "branch": "stachki"
   },
   {
     "order": 21,
@@ -222,7 +222,7 @@
     "slug": "asatryan-asatur-armenovich",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "lazo"
   },
   {
     "order": 22,
@@ -237,7 +237,7 @@
     "slug": "dagiev-mansur-vahidovich",
     "profile": "Адентия, Стертые зубы",
     "clinic": "forte",
-    "branch": ""
+    "branch": "stachki, kirovsky"
   },
   {
     "order": 23,
@@ -252,7 +252,7 @@
     "slug": "martirosyan-kamis-ovikovich",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "avrora, forte",
-    "branch": ""
+    "branch": "stachki, kosmonavtov"
   },
   {
     "order": 24,
@@ -267,7 +267,7 @@
     "slug": "grincova-viktoriya-aleksandrovna",
     "profile": "Кариес, Периодонтит, Пульпит зуба",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 25,
@@ -282,7 +282,7 @@
     "slug": "detinnikova-elvira-olegovna",
     "profile": "Зубной камень, Зубной налет, Все виды отбеливания зубов",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 26,
@@ -297,7 +297,7 @@
     "slug": "kasyanova-valeriya-igorevna",
     "profile": "Зубной камень, Зубной налет, Все виды отбеливания зубов",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 27,
@@ -312,7 +312,7 @@
     "slug": "krotov-kirill-olegovich",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 28,
@@ -327,7 +327,7 @@
     "slug": "mirzoyan-albert-davidovich",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 30,
@@ -342,7 +342,7 @@
     "slug": "thashugoev-azamat-muhamedovich",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 31,
@@ -357,7 +357,7 @@
     "slug": "khasan-kinan-akhmadovich",
     "profile": "Зубной камень, Зубной налет, Гиперестезия зубов",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 32,
@@ -372,7 +372,7 @@
     "slug": "shamakhaeva-saule-aslambekovna",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky, lazo"
   },
   {
     "order": 33,
@@ -387,7 +387,7 @@
     "slug": "shumkova-elizaveta-aleksandrovna",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 34,
@@ -402,7 +402,7 @@
     "slug": "bondarenko-oksana-valentinovna",
     "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 36,
@@ -417,7 +417,7 @@
     "slug": "chubinidze-nestor-badrievich",
     "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 37,
@@ -432,7 +432,7 @@
     "slug": "simonyan-milena-arturovna",
     "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 38,
@@ -447,7 +447,7 @@
     "slug": "skrylnikov-vadim-olegovich",
     "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 39,
@@ -462,7 +462,7 @@
     "slug": "katsanov-artem-batrazovich",
     "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky, lazo"
   },
   {
     "order": 40,
@@ -477,7 +477,7 @@
     "slug": "nefedova-evgeniya-sergeevna",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 41,
@@ -492,7 +492,7 @@
     "slug": "sytnik-aleksey-andreevich",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky, lazo"
   },
   {
     "order": 42,
@@ -507,7 +507,7 @@
     "slug": "volovik-vyacheslav-georgievich",
     "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 43,
@@ -522,7 +522,7 @@
     "slug": "shakhmuradov-khizri-badrutinovich",
     "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 44,
@@ -537,7 +537,7 @@
     "slug": "gorbatko-viktoriya-valerevna",
     "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 45,
@@ -552,7 +552,7 @@
     "slug": "smirnov-vladimir-alekseevich",
     "profile": "Зубной камень, Зубной налет, Гиперестезия зубов",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 46,
@@ -567,7 +567,7 @@
     "slug": "chhikvadze-viktor-vakhtangovich",
     "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky, lazo"
   },
   {
     "order": 48,
@@ -582,7 +582,7 @@
     "slug": "sanamyan-milena-alekseevna",
     "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 49,
@@ -597,7 +597,7 @@
     "slug": "lepsaya-mariam-gerontievna",
     "profile": "Зубной камень, Зубной налет, Гиперестезия зубов",
     "clinic": "forte",
-    "branch": ""
+    "branch": "kirovsky"
   },
   {
     "order": 51,
@@ -612,7 +612,7 @@
     "slug": "azamatov-murat-albertovich",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "chehova"
   },
   {
     "order": 52,
@@ -627,7 +627,7 @@
     "slug": "zhilova-liliya-yurevna",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "chehova"
   },
   {
     "order": 53,
@@ -642,7 +642,7 @@
     "slug": "martirosyan-mkrtich-masisovich",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "chehova"
   },
   {
     "order": 54,
@@ -657,7 +657,7 @@
     "slug": "oganesyan-liana-karenovna",
     "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
     "clinic": "forte",
-    "branch": ""
+    "branch": "chehova"
   },
   {
     "order": 55,
@@ -672,7 +672,7 @@
     "slug": "polozov-leonid-dmitrievich",
     "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "chehova, lazo"
   },
   {
     "order": 56,
@@ -687,7 +687,7 @@
     "slug": "kovaleva-anastasiya-vitalevna",
     "profile": "Зубной камень, Зубной налет, Гиперестезия зубов",
     "clinic": "forte",
-    "branch": ""
+    "branch": "chehova"
   },
   {
     "order": 57,
@@ -702,7 +702,7 @@
     "slug": "chekkueva-alina-soslanovna",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "chehova, lazo"
   },
   {
     "order": 58,
@@ -717,7 +717,7 @@
     "slug": "posukhov-ruslan-sergeevich",
     "profile": "Зубной налет, Зубной камень, Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "chehova"
   },
   {
     "order": 59,
@@ -732,7 +732,7 @@
     "slug": "lyakhovets-vladimir-andreevich",
     "profile": "Периодонтит, Зуб ретенированный, Адентия, \r\nПерикоронит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "chehova"
   },
   {
     "order": 60,
@@ -747,7 +747,7 @@
     "slug": "popova-ekaterina-dmitrievna",
     "profile": "Неправильный прикус, \nГлубокий прикус, \nПротрузия зубов, Дистальный прикус, Мезиальный прикус",
     "clinic": "avrora, forte",
-    "branch": ""
+    "branch": "chehova, pobedy"
   },
   {
     "order": 61,
@@ -762,7 +762,7 @@
     "slug": "abdullaev-salim-gasanovich",
     "profile": "Зубной налет, Зубной камень, Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "chehova"
   },
   {
     "order": 62,
@@ -777,7 +777,7 @@
     "slug": "zakaryan-anna-igorevna",
     "profile": "Зубной налет, Зубной камень, Кариес, Пульпит зуба, Периодонтит",
     "clinic": "forte",
-    "branch": ""
+    "branch": "lazo"
   },
   {
     "order": 64,
@@ -792,7 +792,7 @@
     "slug": "sorgina-kseniya-vladimirovna",
     "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Диастема, Глоссит",
     "clinic": "avrora, forte",
-    "branch": ""
+    "branch": "lazo, pobedy"
   },
   {
     "order": 65,
