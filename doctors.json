@@ -1545,21 +1545,6 @@
     "branch": "stachki"
   },
   {
-    "order": 117,
-    "name": "Максютенко Андрей Сергеевич",
-    "specialty": "Ортопед",
-    "education": "2006 - Донецкий государственный медицинский университет имени М. Горького",
-    "addresses": "пр. Стачки, 55",
-    "photo": "https://storage.yandexcloud.net/astrodent-images/%D0%92%D1%80%D0%B0%D1%87%D0%B8/%D0%9C%D0%B0%D0%BA%D1%81%D1%8E%D1%82%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.webp",
-    "active": true,
-    "signup_link": "#widget",
-    "details_link": "/specialists/maksyutenko-andrey-sergeevich",
-    "slug": "maksyutenko-andrey-sergeevich",
-    "profile": "Адентия, Перелом зуба, Стертые зубы, Аномалия зуба, Повышенная стираемость зубов",
-    "clinic": "forte",
-    "branch": "stachki"
-  },
-  {
     "order": 118,
     "name": "Чолокава Елена Владимировна",
     "specialty": "Терапевт",
