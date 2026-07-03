@@ -1549,14 +1549,14 @@
     "name": "Лебедев Николай Николаевич",
     "specialty": "Ортопед",
     "education": "2015 - Ростовский государственный медицинский университет",
-    "addresses": "пр. Стачки, 55",
+    "addresses": "пр. Стачки, 55,\nпр-т 40-летие Победы, 212",
     "photo": "https://storage.yandexcloud.net/astrodent-images/%D0%92%D1%80%D0%B0%D1%87%D0%B8/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87.webp",
     "active": true,
     "signup_link": "#widget",
     "details_link": "/specialists/lebedev-nikolay",
     "slug": "lebedev-nikolay",
     "profile": "Кариес, Пульпит зуба, Периодонтит",
-    "clinic": "forte",
-    "branch": "stachki"
+    "clinic": "forte, avrora",
+    "branch": "stachki, pobedy"
   }
 ]
