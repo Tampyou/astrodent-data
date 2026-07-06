@@ -870,21 +870,6 @@
     "branch": "lazo"
   },
   {
-    "order": 70,
-    "name": "Какойло Артём Николаевич",
-    "specialty": "Терапевт",
-    "education": "2024 - Крымский федеральный университет имени В. И. Вернадского - Стоматология (Базовое образование)",
-    "addresses": "пр-т 40-летие Победы, 212",
-    "photo": "https://storage.yandexcloud.net/astrodent-images/%D0%92%D1%80%D0%B0%D1%87%D0%B8/%D0%9A%D0%B0%D0%BA%D0%BE%D0%B9%D0%BB%D0%BE%20%D0%90%D1%80%D1%82%D1%91%D0%BC%20%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87.png",
-    "active": true,
-    "signup_link": "#widget",
-    "details_link": "/specialists/kakoylo-artem-nikolaevich",
-    "slug": "kakoylo-artem-nikolaevich",
-    "profile": "Кариес, Пульпит зуба, Зубной камень, Периодонтит, Зубной налет",
-    "clinic": "avrora",
-    "branch": "pobedy"
-  },
-  {
     "order": 71,
     "name": "Озова Асият Зарифовна",
     "specialty": "Терапевт",
