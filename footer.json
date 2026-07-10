@@ -98,7 +98,7 @@
   {
     "column": "О нас",
     "order": 3,
-    "text": "Юр. информация ООО «Астродент-Форте»",
+    "text": "№ Л041-01050-61/00382023 от 04.03.2020 г.",
     "url": "/legal-astrofort",
     "active": true,
     "clinic": "forte"
@@ -106,7 +106,7 @@
   {
     "column": "О нас",
     "order": 4,
-    "text": "Юр. информация ООО «Аврора-Дент»",
+    "text": "№ Л041-01050-61/00324168 от 15.10.2020 г.",
     "url": "/legal-avrora",
     "active": true,
     "clinic": "avrora"
