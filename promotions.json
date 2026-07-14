@@ -1,6 +1,34 @@
 ﻿[
   {
     "order": 1,
+    "slug": "implantacia-straumann",
+    "active": true,
+    "title": "Скидка -10% на имплант Straumann",
+    "desc": "Скидка -10% на имплант Straumann",
+    "full_desc": "Только до 31 июля действует скидка 10% на имплант Швейцарского бренда Straumann. \nИмпланты Straumann — это признанный мировой стандарт в дентальной имплантологии. \nГлавное преимущество — гидрофильная поверхность SLActive, ускоряющая остеоинтеграцию, и пожизненная гарантия на изделия.",
+    "img": "https://storage.yandexcloud.net/astrodent-images/%D0%90%D0%BA%D1%86%D0%B8%D0%B8/%D0%90%D0%BA%D1%86%D0%B8%D1%8F%2013.jpg",
+    "link": "/promotions/implantacia-straumann",
+    "sub1": "Акция действительна до конца июля",
+    "sub2": "Указанная стоимость не суммируется с другими специальными предложениями, включая программу лояльности.",
+    "start_date": "2026-06-30T21:00:00.000Z",
+    "end_date": "2026-07-30T21:00:00.000Z"
+  },
+  {
+    "order": 2,
+    "slug": "ortodont-elainer",
+    "active": true,
+    "title": "",
+    "desc": "",
+    "full_desc": "До конца месяца ортодонтическая диагностика идёт в подарок при установке любых видов брекетов или элайнеров в клиниках Астродент. \n\nОртодонтическая диагностика включает в себя: \n- оттиски с верхней и нижней челюстей;\n- диагностические модели;\n- антропометрические расчеты;\n- расчет ТРГ;\n- постановка диагноза.\n\nЭто комплекс услуг, который позволяет составить корректный индивидуальный план ортодонтического лечения. ",
+    "img": "https://storage.yandexcloud.net/astrodent-images/%D0%90%D0%BA%D1%86%D0%B8%D0%B8/%D0%90%D0%BA%D1%86%D0%B8%D1%8F%2014.jpg",
+    "link": "/promotions/ortodont-elainer",
+    "sub1": "Акция действительна до конца июля",
+    "sub2": "",
+    "start_date": "2026-06-30T21:00:00.000Z",
+    "end_date": "2026-07-30T21:00:00.000Z"
+  },
+  {
+    "order": 3,
     "slug": "medentica-implanty",
     "active": true,
     "title": "Немецкие импланты МЕDENTIKA \nот 26 000 руб",
@@ -14,7 +42,7 @@
     "end_date": "2026-07-30T21:00:00.000Z"
   },
   {
-    "order": 2,
+    "order": 4,
     "slug": "lechenie-kariesa-garantiya-2-goda",
     "active": true,
     "title": "Лечение кариеса \nс гарантией 2 года",
@@ -28,7 +56,7 @@
     "end_date": "2026-07-30T21:00:00.000Z"
   },
   {
-    "order": 3,
+    "order": 5,
     "slug": "otbelivanie-zoom4",
     "active": true,
     "title": "Тот самый день для идеальной улыбки",
@@ -42,7 +70,7 @@
     "end_date": "2026-07-30T21:00:00.000Z"
   },
   {
-    "order": 4,
+    "order": 6,
     "slug": "professionalnaya-chistka-air-flow",
     "active": true,
     "title": "Профессиональная чистка зубов Air Flow \nза 5 900 рублей",
@@ -56,7 +84,7 @@
     "end_date": "2026-07-30T21:00:00.000Z"
   },
   {
-    "order": 5,
+    "order": 7,
     "slug": "lechim-zuby-svoim",
     "active": true,
     "title": "Лечим зубы СВОим",
@@ -70,7 +98,7 @@
     "end_date": "2026-07-30T21:00:00.000Z"
   },
   {
-    "order": 6,
+    "order": 8,
     "slug": "implant-medentika",
     "active": true,
     "title": "Имплантация \n«Все-на-4»\nот 157 000 руб.",
@@ -84,7 +112,7 @@
     "end_date": "2026-07-30T21:00:00.000Z"
   },
   {
-    "order": 7,
+    "order": 9,
     "slug": "breket-sistema-damon-q",
     "active": true,
     "title": "Брекет-система \nDamon Q \nза 95 000 рублей на одну челюсть",
@@ -98,7 +126,7 @@
     "end_date": "2026-07-30T21:00:00.000Z"
   },
   {
-    "order": 8,
+    "order": 10,
     "slug": "elajnery-spark-advanced",
     "active": true,
     "title": "Элайнеры\nSPARK ADVANCED\nза 339 000 рублей",
@@ -112,7 +140,7 @@
     "end_date": "2026-07-30T21:00:00.000Z"
   },
   {
-    "order": 9,
+    "order": 11,
     "slug": "breket-sistema-mini-diamond",
     "active": true,
     "title": "Брекет-система \nMini Diamond \nза 56 600 рублей на одну челюсть",
@@ -126,7 +154,7 @@
     "end_date": "2026-07-30T21:00:00.000Z"
   },
   {
-    "order": 10,
+    "order": 12,
     "slug": "lechenie-pod-narkozom",
     "active": true,
     "title": "Лечение под наркозом",
@@ -140,7 +168,7 @@
     "end_date": "2026-07-30T21:00:00.000Z"
   },
   {
-    "order": 11,
+    "order": 13,
     "slug": "koronki-iz-dioksida-cirkoniya",
     "active": true,
     "title": "Надежные коронки из диоксида циркония\nза \n26 100 рублей",
@@ -154,7 +182,7 @@
     "end_date": "2026-07-30T21:00:00.000Z"
   },
   {
-    "order": 12,
+    "order": 14,
     "slug": "semejnaya-nakopitelnaya-programma",
     "active": true,
     "title": "Семейная накопительная программа скидок",
