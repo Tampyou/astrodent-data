@@ -225,21 +225,6 @@
     "branch": "lazo"
   },
   {
-    "order": 22,
-    "name": "Дагиев Мансур Вахидович",
-    "specialty": "Ортопед",
-    "education": "2022 - Волгоградский государственный медицинский университет - Стоматология",
-    "addresses": "пр. Стачки, 55,\nпр. Кировский, 126",
-    "photo": "https://storage.yandexcloud.net/astrodent-images/%D0%92%D1%80%D0%B0%D1%87%D0%B8/%D0%94%D0%B0%D0%B3%D0%B8%D0%B5%D0%B2%20%D0%9C%D0%B0%D0%BD%D1%81%D1%83%D1%80%20%D0%92%D0%B0%D1%85%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87.png",
-    "active": true,
-    "signup_link": "#widget",
-    "details_link": "/specialists/dagiev-mansur-vahidovich",
-    "slug": "dagiev-mansur-vahidovich",
-    "profile": "Адентия, Стертые зубы",
-    "clinic": "forte",
-    "branch": "stachki, kirovsky"
-  },
-  {
     "order": 23,
     "name": "Мартиросян Камис Овикович ",
     "specialty": "Терапевт",
@@ -1616,6 +1601,21 @@
     "details_link": "/specialists/batdieva-zarema",
     "slug": "batdieva-zarema",
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
+    "clinic": "forte",
+    "branch": "stachki"
+  },
+  {
+    "order": 131,
+    "name": "Галечян Гурген Акопович",
+    "specialty": "Ортопед",
+    "education": "",
+    "addresses": "пр. Стачки, 55",
+    "photo": "https://storage.yandexcloud.net/astrodent-images/%D0%92%D1%80%D0%B0%D1%87%D0%B8/%D0%93%D0%B0%D0%BB%D0%B5%D1%87%D1%8F%D0%BD%20%D0%93%D1%83%D1%80%D0%B3%D0%B5%D0%BD%20%D0%90%D0%BA%D0%BE%D0%BF%D0%BE%D0%B2%D0%B8%D1%87.webp",
+    "active": true,
+    "signup_link": "#widget",
+    "details_link": "/specialists/galechan-gurgen",
+    "slug": "galechan-gurgen",
+    "profile": "Адентия, Перелом зуба, Стертые зубы, Аномалия зуба, Повышенная стираемость зубов",
     "clinic": "forte",
     "branch": "stachki"
   },
