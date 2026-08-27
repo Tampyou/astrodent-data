@@ -1603,5 +1603,20 @@
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
     "clinic": "forte",
     "branch": "lazo"
+  },
+  {
+    "order": 140,
+    "name": "Чимитова Алима Баировна",
+    "specialty": "Детский стоматолог",
+    "education": "2005 - Читинская государственная медицинская академия",
+    "addresses": "пр. Кировский, 126",
+    "photo": "",
+    "active": true,
+    "signup_link": "#widget",
+    "details_link": "/specialists/chimitova-alima-bairovna",
+    "slug": "chimitova-alima-bairovna",
+    "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Глоссит, Нарушение развития и прорезывания зубов",
+    "clinic": "forte",
+    "branch": "kirovsky"
   }
 ]
