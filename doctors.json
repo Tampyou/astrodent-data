@@ -1618,5 +1618,20 @@
     "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
     "clinic": "forte",
     "branch": "chehova"
+  },
+  {
+    "order": 144,
+    "name": "Кучурина Ангелина Михайловна",
+    "specialty": "Ортодонт",
+    "education": "",
+    "addresses": "пр. Кировский, 126",
+    "photo": "",
+    "active": true,
+    "signup_link": "#widget",
+    "details_link": "/specialists/kuchurina-angelina-mihaylovna",
+    "slug": "kuchurina-angelina-mihaylovna",
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
+    "clinic": "forte",
+    "branch": "kirovsky"
   }
 ]
