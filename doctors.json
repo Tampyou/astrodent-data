@@ -1588,5 +1588,20 @@
     "profile": "Пульпит зуба, Глоссалгия, Неправильный прикус, Глоссит, Нарушение развития и прорезывания зубов",
     "clinic": "forte",
     "branch": "kirovsky"
+  },
+  {
+    "order": 141,
+    "name": "Корягина Ольга Владимировна",
+    "specialty": "Терапевт",
+    "education": "2016 - Ростовский государственный медицинский университет",
+    "addresses": "пр-т 40-летие Победы, 212",
+    "photo": "",
+    "active": true,
+    "signup_link": "#widget",
+    "details_link": "/specialists/koryagina-ol-ga-vladimirovna",
+    "slug": "koryagina-ol-ga-vladimirovna",
+    "profile": "Кариес, Зубной камень, Зубной налет, Пульпит зуба, Гингивит",
+    "clinic": "avrora",
+    "branch": "pobedy"
   }
 ]
